@@ -25,14 +25,14 @@ a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible
 .top .lang { border:1px solid rgba(255,255,255,.55); border-radius:999px; padding:6px 14px; font-size:.9rem; min-height:36px; display:inline-flex; align-items:center; flex:none; }
 .top .lang:hover { background:rgba(255,255,255,.15); }
 @media (prefers-color-scheme: dark) { .top { background:color-mix(in srgb, #4a2a0a 94%, transparent); } }
+@media (prefers-color-scheme: dark) and (max-width:720px) { .top { background:#4a2a0a; } }
 
-/* nav: top pills on desktop, native-like tab bar on phones */
-.tabs { max-width:1100px; margin:0 auto; padding:14px 20px 0; }
-.tabs ul { display:flex; flex-wrap:wrap; gap:6px; list-style:none; margin:0; padding:0; }
-.tabs a { display:inline-flex; align-items:center; gap:6px; padding:8px 16px; border-radius:999px; text-decoration:none; color:var(--fg); background:var(--card); border:1px solid var(--line); font-size:.95rem; min-height:40px; transition:background .15s, color .15s; }
-.tabs a:hover { background:var(--chip); }
-.tabs a[aria-current=page] { background:var(--accent); color:#fff; border-color:var(--accent); font-weight:600; }
-@media (prefers-color-scheme: dark) { .tabs a[aria-current=page] { color:#1b1208; } }
+/* nav: inside the header on desktop, native-like tab bar on phones */
+.tabs { flex:1; min-width:0; }
+.tabs ul { display:flex; flex-wrap:wrap; justify-content:center; gap:4px; list-style:none; margin:0; padding:0; }
+.top .tabs a { display:inline-flex; align-items:center; gap:6px; padding:6px 14px; border-radius:999px; color:#fff; font-size:.95rem; min-height:38px; transition:background .15s; }
+.top .tabs a:hover { background:rgba(255,255,255,.16); }
+.top .tabs a[aria-current=page] { background:rgba(255,255,255,.26); font-weight:700; }
 
 main { max-width:1100px; margin:0 auto; padding:16px 20px 32px; outline:none; animation:enter .25s ease-out; }
 @keyframes enter { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
@@ -114,17 +114,20 @@ summary { cursor:pointer; font-weight:600; min-height:32px; display:flex; align-
   .filters { grid-template-columns:1fr; }
   .map { height:60dvh; }
   .btn { flex:1 1 auto; }
+  .top { backdrop-filter:none; -webkit-backdrop-filter:none; background:#8a4b0f; }
   .tabs { position:fixed; left:0; right:0; bottom:0; z-index:30; max-width:none; margin:0; padding:0 4px var(--safe-b); height:calc(var(--tabbar-h) + var(--safe-b));
     background:color-mix(in srgb, var(--card) 92%, transparent); backdrop-filter:saturate(1.4) blur(14px); -webkit-backdrop-filter:saturate(1.4) blur(14px); border-top:1px solid var(--line); }
   .tabs ul { flex-wrap:nowrap; gap:0; height:var(--tabbar-h); }
   .tabs li { flex:1 1 0; min-width:0; }
-  .tabs a { flex-direction:column; justify-content:center; gap:2px; width:100%; height:100%; padding:4px 2px; border:0; border-radius:12px; background:transparent; font-size:.68rem; line-height:1.1; text-align:center; color:var(--muted); }
-  .tabs a:hover { background:transparent; }
-  .tabs a[aria-current=page] { background:transparent; color:var(--accent); font-weight:700; }
-  .tabs a[aria-current=page] .ico { background:color-mix(in srgb, var(--accent2) 28%, transparent); }
+  .top .tabs a { flex-direction:column; justify-content:center; gap:2px; width:100%; height:100%; padding:4px 2px; border:0; border-radius:12px; background:transparent; font-size:.68rem; line-height:1.1; text-align:center; color:var(--muted); }
+  .top .tabs a:hover { background:transparent; }
+  .top .tabs a[aria-current=page] { background:transparent; color:var(--accent); font-weight:700; }
+  .top .tabs a[aria-current=page] .ico { background:color-mix(in srgb, var(--accent2) 28%, transparent); }
   .tabs .ico { font-size:1.25rem; line-height:1; padding:3px 14px; border-radius:999px; transition:background .15s; }
   .tabs .txt { max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
   footer { padding-bottom:16px; }
 }
 @media (hover:none) { .card:hover, .people a:hover { transform:none; } }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior:auto !important; transition:none !important; animation:none !important; } }
+@media (min-width:721px) and (max-width:1000px) { .brand-text { display:none; } }
+@media (min-width:721px) and (max-width:1000px) { .top .tabs a { padding:6px 9px; font-size:.9rem; white-space:nowrap; } .top .tabs .ico { display:none; } }
