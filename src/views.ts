@@ -31,7 +31,7 @@ export function makeViews(data: Data) {
     return html`<article class="card">
       <h3>${link(`/record/${r.id}`, N.site(r.site))}</h3>
       <p class="meta">${T.registerNo} ${r.collectionNo} · ${r.periods.map((p) => periodLabel(data, p)).join(', ') || '—'}</p>
-      <p class="meta">${r.regions.map(N.region).join(', ')}${r.districts.length ? ' · ' + r.districts.map((d) => d + T.districtSuffix).join(', ') : ''}</p>
+      <p class="meta">${r.regions.map(N.region).join(', ')}${r.districts.length ? ' · ' + r.districts.map((d) => N.site(d) + T.districtSuffix).join(', ') : ''}</p>
       <p class="meta">${T.yearsOfResearch}: ${years(r)}</p>
     </article>`;
   }
@@ -209,8 +209,8 @@ export function makeViews(data: Data) {
   };
 
   const mapBlock = (): Raw => html`<p class="note">${T.mapNote}</p>
-        <label>${T.period} <select id="map-period"><option value="">${T.all}</option>${g.periods.filter((p) => p.count).map((p) => html`<option value="${p.id}">${periodLabel(data, p.id)}</option>`)} </select></label>
-        <label>${T.authorLabel} <select id="map-scholar"><option value="">${T.all}</option>${[...g.scholars].sort((a, b) => N.person(a.name!).localeCompare(N.person(b.name!), lang)).map((sc) => html`<option value="${sc.name}">${N.person(sc.name!)}</option>`)}</select></label>
+        <div class="map-controls"><label>${T.period} <select id="map-period"><option value="">${T.all}</option>${g.periods.filter((p) => p.count).map((p) => html`<option value="${p.id}">${periodLabel(data, p.id)}</option>`)} </select></label>
+        <label>${T.authorLabel} <select id="map-scholar"><option value="">${T.all}</option>${[...g.scholars].sort((a, b) => N.person(a.name!).localeCompare(N.person(b.name!), lang)).map((sc) => html`<option value="${sc.name}">${N.person(sc.name!)}</option>`)}</select></label></div>
         <div id="map" class="map" role="application" aria-label="${T.mapAria}"></div>
         <details open><summary>${T.placeList}</summary><div id="map-list"></div></details>`;
 

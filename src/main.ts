@@ -6,7 +6,7 @@ import './style.css';
 
 const app = document.getElementById('app')!;
 const routers: Partial<Record<Lang, ReturnType<typeof makeViews>>> = {};
-const navPaths: [keyof typeof dicts.uk.nav, string][] = [['home', '/'], ['map', '/map'], ['timeline', '/timeline'], ['collection', '/collection'], ['scholars', '/scholars'], ['about', '/about']];
+const navPaths: [keyof typeof dicts.uk.nav, string, string][] = [['home', '/', '🏠'], ['map', '/map', '🗺'], ['timeline', '/timeline', '⏳'], ['collection', '/collection', '📚'], ['scholars', '/scholars', '👥'], ['about', '/about', 'ℹ️']];
 
 const langOf = (hash: string): Lang => (/^#?\/en(\/|\?|$)/.test(hash) ? 'en' : 'uk');
 
@@ -31,9 +31,9 @@ async function render() {
   const prefix = lang === 'en' ? '/en' : '';
   const current = hash.replace('#', '').replace(/^\/en(?=\/|\?|$)/, '').split('?')[0] || '/';
   const other = lang === 'en' ? hash.replace(/^#\/en/, '#') : `#/en${hash.replace(/^#/, '') === '/' ? '' : hash.replace(/^#/, '')}`;
-  app.innerHTML = `<header class="top"><a class="brand" href="#${prefix}/">🏺 ${esc(T.siteTitle)}</a>
-    <nav aria-label="${T.mainMenu}"><ul>${navPaths.map(([k, h]) => `<li><a href="#${prefix}${h}" ${current === h || (h !== '/' && current.startsWith(h)) ? 'aria-current="page"' : ''}>${T.nav[k]}</a></li>`).join('')}
-      <li><a class="lang" href="${other === '#' ? '#/' : esc(other)}" lang="${lang === 'en' ? 'uk' : 'en'}">${T.language}</a></li></ul></nav></header>
+  app.innerHTML = `<header class="top"><a class="brand" href="#${prefix}/"><span aria-hidden="true">🏺</span> <span class="brand-text">${esc(T.siteTitle)}</span></a>
+    <a class="lang" href="${other === '#' ? '#/' : esc(other)}" lang="${lang === 'en' ? 'uk' : 'en'}">${T.language}</a></header>
+    <nav class="tabs" aria-label="${T.mainMenu}"><ul>${navPaths.map(([k, h, icon]) => `<li><a href="#${prefix}${h}" ${current === h || (h !== '/' && current.startsWith(h)) ? 'aria-current="page"' : ''}><span class="ico" aria-hidden="true">${icon}</span><span class="txt">${T.nav[k]}</span></a></li>`).join('')}</ul></nav>
     <main id="main" tabindex="-1">${view.body.value}</main>
     <footer>${T.footer} · <a href="#${prefix}/about">${T.footerLink}</a></footer>`;
   document.title = `${view.title} — ${T.siteTitle}`;
