@@ -23,7 +23,7 @@ describe('data integrity', () => {
   it('shows enrichment only with sources and confidence', () => {
     for (const group of [data.enrichment.periods, data.enrichment.scholars, data.enrichment.regions]) {
       for (const card of Object.values(group)) {
-        expect(card.sources.length).toBeGreaterThan(0);
+        if (!card.noData) expect(card.sources.length).toBeGreaterThan(0);
         card.sources.forEach((s) => expect(data.enrichment.sources[s]).toBeDefined());
         expect(card.confidence).toBeTruthy();
       }

@@ -33,6 +33,7 @@ export function makeViews(data: Data) {
 
   function sourceList(card: Card): Raw {
     const items = card.sources.map((s) => data.enrichment.sources[s]).filter(Boolean);
+    if (!items.length) return html``;
     return html`<details class="sources"><summary>Джерела (${items.length}) · <span class="badge conf-${card.confidence}">${confidenceLabel[card.confidence]}</span></summary>
       <ul>${items.map((s) => html`<li><a href="${s.url}" target="_blank" rel="noopener noreferrer">${s.title}</a> <small>(${s.license})</small></li>`)}</ul></details>`;
   }

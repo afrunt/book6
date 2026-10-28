@@ -15,7 +15,7 @@ export interface Fact { text: string; sources: string[] }
 export interface Card {
   title?: string; dating?: string; summary?: string; fullName?: string; years?: string | null; bio?: string;
   facts?: Fact[]; artifacts?: string[]; fields?: string[]; photo?: { file: string; credit: string; license: string; url: string };
-  sources: string[]; confidence: 'high' | 'medium' | 'low';
+  noData?: boolean; sources: string[]; confidence: 'high' | 'medium' | 'low';
 }
 export interface Source { title: string; url: string; license: string }
 export interface Enrichment {

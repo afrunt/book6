@@ -74,7 +74,7 @@ def main():
             if not fact.get("sources"):
                 errors.append(f"{kind}/{key}: fact without sources")
             entry_sources += fact.get("sources", [])
-        if not entry.get("sources"):
+        if not entry.get("sources") and not entry.get("noData"):
             errors.append(f"{kind}/{key}: entry without sources")
         if not entry.get("confidence"):
             errors.append(f"{kind}/{key}: entry without confidence")
