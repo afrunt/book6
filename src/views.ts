@@ -209,7 +209,8 @@ export function makeViews(data: Data) {
   };
 
   const mapBlock = (): Raw => html`<p class="note">${T.mapNote}</p>
-        <label>${T.period} <select id="map-period"><option value="">${T.all}</option>${g.periods.filter((p) => p.count).map((p) => html`<option value="${p.id}">${periodLabel(data, p.id)}</option>`)}</select></label>
+        <label>${T.period} <select id="map-period"><option value="">${T.all}</option>${g.periods.filter((p) => p.count).map((p) => html`<option value="${p.id}">${periodLabel(data, p.id)}</option>`)} </select></label>
+        <label>${T.authorLabel} <select id="map-scholar"><option value="">${T.all}</option>${[...g.scholars].sort((a, b) => N.person(a.name!).localeCompare(N.person(b.name!), lang)).map((sc) => html`<option value="${sc.name}">${N.person(sc.name!)}</option>`)}</select></label>
         <div id="map" class="map" role="application" aria-label="${T.mapAria}"></div>
         <details open><summary>${T.placeList}</summary><div id="map-list"></div></details>`;
 
@@ -218,11 +219,11 @@ export function makeViews(data: Data) {
         const map = L.map(root.querySelector<HTMLElement>('#map')!).setView([49, 32], 6);
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 12, attribution: T.osm }).addTo(map);
         const layer = L.layerGroup().addTo(map);
-        const draw = (period: string) => {
+        const draw = (period: string, scholar: string) => {
           layer.clearLayers(); groups.clear();
           for (const r of data.records) {
             const pt = data.geo[r.id];
-            if (!pt || (period && !r.periods.includes(period))) continue;
+            if (!pt || (period && !r.periods.includes(period)) || (scholar && !r.authors.includes(scholar))) continue;
             const key = `${pt.lat},${pt.lon}`;
             const gr = groups.get(key) ?? { label: pt.label, lat: pt.lat, lon: pt.lon, precision: pt.precision, ids: [] };
             gr.ids.push(r.id); groups.set(key, gr);
@@ -236,8 +237,12 @@ export function makeViews(data: Data) {
           const regionLinks = [...groups.values()].sort((a, b) => b.ids.length - a.ids.length);
           root.querySelector('#map-list')!.innerHTML = `<ul>${regionLinks.map((gr) => `<li>${esc(N.geoLabel(gr.label))} — ${gr.ids.length} (${esc(T.precision[gr.precision])}) · <a href="${H('/record/' + esc(gr.ids[0]))}">${T.firstRecord}</a></li>`).join('')}</ul>`;
         };
-        draw('');
-        root.querySelector('#map-period')!.addEventListener('change', (e) => draw((e.target as HTMLSelectElement).value));
+        const periodSel = root.querySelector<HTMLSelectElement>('#map-period')!;
+        const scholarSel = root.querySelector<HTMLSelectElement>('#map-scholar')!;
+        const redraw = () => draw(periodSel.value, scholarSel.value);
+        redraw();
+        periodSel.addEventListener('change', redraw);
+        scholarSel.addEventListener('change', redraw);
         setTimeout(() => map.invalidateSize(), 0);
   };
 

@@ -44,3 +44,4 @@ input, select { padding:8px; border:1px solid #b9a98f; border-radius:6px; font-s
 
 .people { list-style:none; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:10px; } .people li[hidden] { display:none; }
 .people a { display:flex; gap:12px; align-items:center; padding:8px; border:1px solid var(--line); border-radius:8px; text-decoration:none; } .people img, .avatar { width:56px; height:56px; border-radius:50%; object-fit:cover; flex:none; } .avatar { display:grid; place-items:center; background:#f1e4cf; font-weight:700; }
+.map-filters-note, #map-scholar { margin-right: 12px; }

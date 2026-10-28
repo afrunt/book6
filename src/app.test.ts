@@ -86,6 +86,14 @@ describe('scholars list', () => {
   });
 });
 
+describe('map', () => {
+  it('offers a scholar filter listing every scholar', () => {
+    const body = makeViews(data).route('#/map').body.value;
+    expect(body).toContain('id="map-scholar"');
+    expect((body.match(/<option value="[^"]+">[^<]+<\/option>/g) ?? []).filter((o) => data.graph.scholars.some((sc) => o.includes(`value="${sc.name}"`))).length).toBe(data.graph.scholars.length);
+  });
+});
+
 describe('english version', () => {
   it('romanizes names with the national standard', () => {
     expect(translit('Єнакієве Юрій Їжак Зґгдь')).toBe('Yenakiieve Yurii Yizhak Zghd');
