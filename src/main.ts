@@ -1,35 +1,47 @@
-import { config } from './config';
 import { loadData } from './data';
 import { esc } from './html';
+import { dicts, type Lang } from './i18n';
 import { makeViews } from './views';
 import './style.css';
 
 const app = document.getElementById('app')!;
-const nav: [string, string][] = [['/', 'Головна'], ['/map', 'Карта'], ['/timeline', 'Шкала часу'], ['/collection', 'Колекція'], ['/scholars', 'Дослідники'], ['/about', 'Про проєкт']];
+const routers: Partial<Record<Lang, ReturnType<typeof makeViews>>> = {};
+const navPaths: [keyof typeof dicts.uk.nav, string][] = [['home', '/'], ['map', '/map'], ['timeline', '/timeline'], ['collection', '/collection'], ['scholars', '/scholars'], ['about', '/about']];
 
-async function start() {
-  app.innerHTML = '<p class="loading">Завантаження…</p>';
-  let router: ReturnType<typeof makeViews>;
-  try {
-    router = makeViews(await loadData());
-  } catch (e) {
-    app.innerHTML = `<p class="note">Не вдалося завантажити дані: ${esc((e as Error).message)}. Оновіть сторінку.</p>`;
-    return;
+const langOf = (hash: string): Lang => (/^#?\/en(\/|\?|$)/.test(hash) ? 'en' : 'uk');
+
+async function render() {
+  const hash = location.hash || '#/';
+  const lang = langOf(hash);
+  const T = dicts[lang];
+  document.documentElement.lang = lang === 'en' ? 'en' : 'uk';
+  document.querySelector('.skip')!.textContent = T.skip;
+  document.querySelector('meta[name="description"]')?.setAttribute('content', T.description);
+  if (!routers[lang]) {
+    app.innerHTML = `<p class="loading">${T.loading}</p>`;
+    try {
+      routers[lang] = makeViews(await loadData(import.meta.env.BASE_URL, lang));
+    } catch (e) {
+      app.innerHTML = `<p class="note">${esc(T.loadFail((e as Error).message))}</p>`;
+      return;
+    }
+    if (langOf(location.hash || '#/') !== lang) return;
   }
-  const render = () => {
-    const view = router.route(location.hash || '#/');
-    const current = (location.hash || '#/').replace('#', '').split('?')[0];
-    app.innerHTML = `<header class="top"><a class="brand" href="#/">🏺 ${esc(config.siteTitle)}</a>
-      <nav aria-label="Основне меню"><ul>${nav.map(([h, t]) => `<li><a href="#${h}" ${current === h || (h !== '/' && current.startsWith(h)) ? 'aria-current="page"' : ''}>${t}</a></li>`).join('')}</ul></nav></header>
-      <main id="main" tabindex="-1">${view.body.value}</main>
-      <footer>Дані: Книга реєстрації колекцій № VI · <a href="#/about">Джерела та приватність</a></footer>`;
-    document.title = `${view.title} — ${config.siteTitle}`;
-    view.after?.(app);
-    const main = document.getElementById('main')!;
-    window.scrollTo(0, 0);
-    main.focus({ preventScroll: true });
-  };
-  window.addEventListener('hashchange', render);
-  render();
+  const view = routers[lang]!.route(hash);
+  const prefix = lang === 'en' ? '/en' : '';
+  const current = hash.replace('#', '').replace(/^\/en(?=\/|\?|$)/, '').split('?')[0] || '/';
+  const other = lang === 'en' ? hash.replace(/^#\/en/, '#') : `#/en${hash.replace(/^#/, '') === '/' ? '' : hash.replace(/^#/, '')}`;
+  app.innerHTML = `<header class="top"><a class="brand" href="#${prefix}/">🏺 ${esc(T.siteTitle)}</a>
+    <nav aria-label="${T.mainMenu}"><ul>${navPaths.map(([k, h]) => `<li><a href="#${prefix}${h}" ${current === h || (h !== '/' && current.startsWith(h)) ? 'aria-current="page"' : ''}>${T.nav[k]}</a></li>`).join('')}
+      <li><a class="lang" href="${other === '#' ? '#/' : esc(other)}" lang="${lang === 'en' ? 'uk' : 'en'}">${T.language}</a></li></ul></nav></header>
+    <main id="main" tabindex="-1">${view.body.value}</main>
+    <footer>${T.footer} · <a href="#${prefix}/about">${T.footerLink}</a></footer>`;
+  document.title = `${view.title} — ${T.siteTitle}`;
+  view.after?.(app);
+  const main = document.getElementById('main')!;
+  window.scrollTo(0, 0);
+  main.focus({ preventScroll: true });
 }
-void start();
+
+window.addEventListener('hashchange', () => void render());
+void render();

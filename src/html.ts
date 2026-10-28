@@ -16,5 +16,3 @@ export function html(strings: TemplateStringsArray, ...vals: unknown[]): Raw {
   return new Raw(out);
 }
 
-export const confidenceLabel: Record<string, string> = { high: 'висока достовірність', medium: 'середня достовірність', low: 'потребує перевірки' };
-export const precisionLabel: Record<string, string> = { region: 'приблизно (область)', district: 'район', settlement: 'місто' };

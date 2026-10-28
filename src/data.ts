@@ -1,3 +1,5 @@
+import { makeNames, type CardText, type I18n, type Lang, type Names } from './i18n';
+
 export interface RecordItem {
   id: string; collectionNo: number; site: string; actNo: string | null; receivedAt: string | null;
   boxes: string | null; units: string | null; regions: string[]; districts: string[]; periods: string[];
@@ -25,6 +27,7 @@ export interface Enrichment {
 export interface GeoPoint { lat: number; lon: number; precision: 'region' | 'district' | 'settlement'; label: string; approx: boolean }
 
 export interface Data {
+  lang: Lang; names: Names;
   records: RecordItem[]; byId: Map<string, RecordItem>; graph: Graph; enrichment: Enrichment;
   geo: Record<string, GeoPoint>; cover: string[];
   siteTypeLabels: Record<string, string>;
@@ -35,7 +38,19 @@ export const SITE_TYPE_LABELS: Record<string, string> = {
   kurgan: 'Курган', 'kurgan-cemetery': 'Курганний могильник', burial: 'Могильник і поховання', other: 'Інше',
 };
 
-export async function loadData(base = import.meta.env.BASE_URL): Promise<Data> {
+function overlay(base: Card, o?: CardText): Card {
+  if (!o) return base;
+  return {
+    ...base, title: o.title ?? base.title, dating: o.dating ?? base.dating, summary: o.summary ?? base.summary,
+    fullName: o.fullName ?? base.fullName, years: o.years ?? base.years, bio: o.bio ?? base.bio,
+    artifacts: o.artifacts ?? base.artifacts, fields: o.fields ?? base.fields,
+    facts: base.facts?.map((f, i) => ({ ...f, text: o.facts?.[i] ?? f.text })),
+  };
+}
+const overlayGroup = (group: Record<string, Card>, tr: Record<string, CardText>) =>
+  Object.fromEntries(Object.entries(group).map(([k, c]) => [k, overlay(c, tr[k])]));
+
+export async function loadData(base = import.meta.env.BASE_URL, lang: Lang = 'uk'): Promise<Data> {
   const get = async <T>(f: string): Promise<T> => {
     const r = await fetch(`${base}data/${f}`);
     if (!r.ok) throw new Error(`Не вдалося завантажити ${f}`);
@@ -45,5 +60,17 @@ export async function loadData(base = import.meta.env.BASE_URL): Promise<Data> {
     get<RecordItem[]>('records.json'), get<Graph>('graph.json'), get<Enrichment>('enrichment.json'),
     get<Record<string, GeoPoint>>('geo.json'), get<string[]>('cover.json'),
   ]);
-  return { records, byId: new Map(records.map((r) => [r.id, r])), graph, enrichment, geo, cover, siteTypeLabels: SITE_TYPE_LABELS };
+  let labels = SITE_TYPE_LABELS;
+  let i18n: I18n | undefined;
+  if (lang === 'en') {
+    i18n = await get<I18n>('i18n-en.json');
+    enrichment.periods = overlayGroup(enrichment.periods, i18n.periods);
+    enrichment.siteTypes = overlayGroup(enrichment.siteTypes, i18n.siteTypes);
+    enrichment.regions = overlayGroup(enrichment.regions, i18n.regions);
+    enrichment.expeditions = overlayGroup(enrichment.expeditions, i18n.expeditions);
+    enrichment.scholars = overlayGroup(enrichment.scholars, i18n.scholars);
+    graph.periods = graph.periods.map((p) => ({ ...p, label: i18n!.periodLabels[p.id] ?? p.label }));
+    labels = { ...SITE_TYPE_LABELS, ...i18n.siteTypeLabels };
+  }
+  return { lang, names: makeNames(lang, i18n), records, byId: new Map(records.map((r) => [r.id, r])), graph, enrichment, geo, cover, siteTypeLabels: labels };
 }

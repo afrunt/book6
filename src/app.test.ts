@@ -5,6 +5,7 @@ import { existsSync } from 'node:fs';
 import { relatedRecords } from './discovery';
 import { applyFilters, buildIndex, emptyFilters } from './search';
 import { makeViews } from './views';
+import { latinPerson, translit } from './i18n';
 
 let data: Data;
 beforeAll(async () => {
@@ -82,5 +83,30 @@ describe('scholars list', () => {
   it('lists every scholar with a link to the personal page', () => {
     const body = makeViews(data).route('#/scholars').body.value;
     expect((body.match(/href="#\/scholar\//g) ?? []).length).toBe(data.graph.scholars.length);
+  });
+});
+
+describe('english version', () => {
+  it('romanizes names with the national standard', () => {
+    expect(translit('Єнакієве Юрій Їжак Зґгдь')).toBe('Yenakiieve Yurii Yizhak Zghd');
+    expect(latinPerson('Яневич О.О.')).toBe('O. O. Yanevych');
+  });
+  it('renders English routes with English links and no untranslated cards', async () => {
+    const en = await loadData('/', 'en');
+    const { route } = makeViews(en);
+    const home = route('#/en/');
+    expect(home.title).toBe('Home');
+    expect(home.body.value).toContain('href="#/en/map"');
+    for (const h of ['#/en/map', '#/en/timeline', '#/en/collection?q=Tripillia', '#/en/record/1073-1', '#/en/period/tripillia', '#/en/place/cherkaska', '#/en/scholar/yanevych-o-o', '#/en/scholars', '#/en/about']) {
+      expect(route(h).body.value.length, h).toBeGreaterThan(50);
+    }
+    expect(route('#/en/period/tripillia').body.value).not.toMatch(/Датування/);
+    expect(route('#/en/scholar/yanevych-o-o').body.value).toContain('Oleksandr');
+    expect(route('#/en/record/nope').title).toBe('Not found');
+    const idx = buildIndex(en, (r) => translit(r.site));
+    expect(applyFilters(en, idx, { ...emptyFilters, q: 'Bovtyshka' }).length).toBeGreaterThan(0);
+  });
+  it('keeps Ukrainian as the default', () => {
+    expect(makeViews(data).route('#/').body.value).toContain('href="#/map"');
   });
 });

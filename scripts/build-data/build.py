@@ -147,6 +147,18 @@ def main():
     dump("geo.json", geo)
     dump("enrichment.json", enrichment)
     dump("cover.json", cover)
+    en_path = ENR / "en.json"
+    if en_path.exists():
+        en = json.loads(en_path.read_text(encoding="utf-8"))
+        for kind, ids in (("periods", enr["periods"]["items"]), ("siteTypes", enr["site-types"]["items"]), ("regions", enr["regions"]["items"]),
+                          ("expeditions", enr["expeditions"]["items"]), ("scholars", enr["scholars"]["items"])):
+            missing = [k for k in ids if k not in en.get(kind, {})]
+            if missing:
+                errors.append(f"en.json/{kind}: missing translations for {', '.join(missing)}")
+        for name in {n for r in records for n in r["regions"]}:
+            if not en["regionNames"].get(name):
+                errors.append(f"en.json/regionNames: missing {name}")
+        dump("i18n-en.json", en)
     dump("quality.json", quality)
     print(f"records={len(records)} geo={len(geo)} warnings={len(warnings)} errors={len(errors)}")
     for w in warnings:

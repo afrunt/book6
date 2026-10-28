@@ -1,0 +1,1469 @@
+{
+ "periods": {
+  "paleolithic": {
+   "title": "Palaeolithic",
+   "dating": "from over 1 million years ago to ~10,000 BCE",
+   "summary": "The longest period of human history: people lived by gathering and hunting and made tools from stone, bone and antler. In Ukraine, campsites are known from the earliest forms of humans to the end of the Ice Age.",
+   "facts": [
+    "Most of the Palaeolithic is divided into Early, Middle (Mousterian) and Late stages.",
+    "Stone tools are the most common finds: they are used to identify cultures and date campsites."
+   ],
+   "artifacts": [
+    "flakes and cores",
+    "hand axes and scrapers",
+    "bone items"
+   ]
+  },
+  "mousterian": {
+   "title": "Mousterian (Middle Palaeolithic)",
+   "dating": "c. 100,000–40,000 years ago",
+   "summary": "The age of the Neanderthals. Crimea has many caves and open-air campsites of the Mousterian period, which formed the basis for the periodisation of the peninsula's Middle Palaeolithic.",
+   "facts": [
+    "The name comes from the cave of Le Moustier in France, where this type of tool was first described.",
+    "The Crimean sites of Kiik-Koba, Shaitan-Koba and Zaskelna are among the best-known Mousterian sites in Ukraine."
+   ],
+   "artifacts": [
+    "pointed tools (points)",
+    "side scrapers",
+    "disc-shaped cores"
+   ]
+  },
+  "late-paleolithic": {
+   "title": "Late Palaeolithic",
+   "dating": "c. 40,000–10,000 years ago",
+   "summary": "The time when modern humans appeared in Europe. More complex tools, ornaments, art and dwellings made of mammoth bones on open plains appear.",
+   "facts": [
+    "The Mezyn site in the Chernihiv region is known for decorated bone items and dwellings made of mammoth bones.",
+    "Late Palaeolithic hunters hunted mammoth, reindeer and bison."
+   ],
+   "artifacts": [
+    "flint blades and burins",
+    "bone needles",
+    "ornaments made of shells and tusk"
+   ]
+  },
+  "mesolithic": {
+   "title": "Mesolithic",
+   "dating": "c. 10,000–6,000 BCE",
+   "summary": "A transitional period after the Ice Age: the climate warms and the mammoth fauna disappears. People engaged in hunting, fishing and gathering, and tools became smaller.",
+   "facts": [
+    "A characteristic feature is microliths: tiny flint inserts for composite tools.",
+    "Sites are often located on sand dunes and river terraces, notably in Polissia."
+   ],
+   "artifacts": [
+    "microliths",
+    "arrowheads",
+    "bone harpoons"
+   ]
+  },
+  "neolithic": {
+   "title": "Neolithic",
+   "dating": "c. 6,000–4,500 BCE",
+   "summary": "The time when pottery, the domestication of animals and the beginnings of farming appeared. Ceramic vessels make it possible to distinguish between cultures.",
+   "facts": [
+    "The Dnipro-Donets culture is one of the best-known Neolithic hunter-fisher cultures in Ukraine.",
+    "Ornament on pottery is the main chronological marker."
+   ],
+   "artifacts": [
+    "pointed-base pots",
+    "polished axes",
+    "stone and bone tools"
+   ]
+  },
+  "eneolithic": {
+   "title": "Eneolithic (Copper Age)",
+   "dating": "c. 4,500–3,000 BCE",
+   "summary": "The first copper items, large farming communities and the first kurgans appear. The most striking culture on the territory of Ukraine is Trypillia.",
+   "facts": [
+    "The Eneolithic is the transition from stone to metal: copper had not yet displaced flint.",
+    "At this time the large-scale use of animals for transport and traction begins."
+   ],
+   "artifacts": [
+    "copper ornaments",
+    "stone hammer-axes",
+    "painted pottery (Trypillia)"
+   ]
+  },
+  "tripillia": {
+   "title": "Trypillia culture",
+   "dating": "c. 5000–2750 BCE",
+   "summary": "A farming culture of Right-Bank Ukraine, known for its painted pottery and giant settlements that numbered thousands of inhabitants. It is named after the village of Trypillia in the Kyiv region.",
+   "facts": [
+    "The settlement near Talianky in the Cherkasy region is one of the largest known settlements of its time in Europe.",
+    "The Trypillians built clay houses that they ritually burned; archaeologists study the remains of such buildings."
+   ],
+   "artifacts": [
+    "painted vessels",
+    "anthropomorphic figurines",
+    "clay house models"
+   ]
+  },
+  "yamna": {
+   "title": "Yamna (Pit-Grave) culture",
+   "dating": "c. 3300–2200 BCE",
+   "summary": "A culture of steppe pastoralists that left kurgans with burials in pits sprinkled with ochre. It is considered the first to make widespread use of wheeled wagons.",
+   "facts": [
+    "Burials were often accompanied by ochre, a red pigment.",
+    "Yamna kurgans are the main archaeological hallmark of the culture across the steppe."
+   ],
+   "artifacts": [
+    "ochre in burials",
+    "wooden carts (remains)",
+    "cord-impressed pottery"
+   ]
+  },
+  "catacomb": {
+   "title": "Catacomb culture",
+   "dating": "c. 2800–1800 BCE",
+   "summary": "A Bronze Age culture named after the shape of its graves: a side chamber, the “catacomb”, was dug from a vertical shaft. It is characterised by metal items and a rich burial rite.",
+   "facts": [
+    "A catacomb grave consists of an entrance pit and a side chamber.",
+    "Burials contain metal tools and vessels, which testify to developed metallurgy."
+   ],
+   "artifacts": [
+    "cord-impressed pots",
+    "bronze knives and awls",
+    "funerary wagons"
+   ]
+  },
+  "multi-roller": {
+   "title": "Multi-Roller Pottery culture (MRP)",
+   "dating": "c. 2000–1500 BCE",
+   "summary": "A Bronze Age culture that displaced the Catacomb culture in the steppe. It is named after its ornament: impressions of a multi-strand (braided) cord roller on pots.",
+   "facts": [
+    "The most common feature is the “roller” ornament.",
+    "Sites are known over a large area from the Dnipro to the Don and the Volga."
+   ],
+   "artifacts": [
+    "pots with roller ornament",
+    "bronze ornaments"
+   ]
+  },
+  "srubna": {
+   "title": "Srubna (Timber-Grave) culture",
+   "dating": "c. 1700–1200 BCE",
+   "summary": "A Late Bronze Age culture. The dead were buried in pits with timber frames (a srub is a structure built of logs), which gave the culture its name.",
+   "facts": [
+    "The Srubna community occupied a vast area of the steppes of Eastern Europe.",
+    "Research on the Srubna culture in Ukraine, particularly in the Dnipro region, is associated with the name of V. Otroshchenko."
+   ],
+   "artifacts": [
+    "jar-shaped pots",
+    "bronze knives",
+    "bone cheek-pieces"
+   ]
+  },
+  "sabatynivka": {
+   "title": "Sabatynivka culture",
+   "dating": "c. 1600–1200 BCE",
+   "summary": "A Late Bronze Age culture of the northern Black Sea region with developed bronze metallurgy. It is named after a settlement near the village of Sabatynivka.",
+   "facts": [
+    "Many casting moulds from the Late Bronze Age have been found in the northern Black Sea region."
+   ],
+   "artifacts": [
+    "casting moulds",
+    "bronze sickles",
+    "pots with a raised band"
+   ]
+  },
+  "belogrudivka": {
+   "title": "Bilohrudivka culture",
+   "dating": "c. 1200–900 BCE",
+   "summary": "A culture of the end of the Bronze Age in the forest-steppe of the Right Bank of the Dnipro. It is known for settlements and cemeteries with cremation.",
+   "facts": [
+    "The Bilohrudivka culture precedes the Early Iron Age and the Chornyi Lis culture."
+   ],
+   "artifacts": [
+    "pottery with a burnished surface",
+    "bronze ornaments"
+   ]
+  },
+  "bronze": {
+   "title": "Bronze Age",
+   "dating": "c. 3300–900 BCE",
+   "summary": "The time when people learned to smelt bronze, an alloy of copper with tin or other additives. It is the age of nomadic pastoralists in the steppe and farming communities in the forest-steppe.",
+   "facts": [
+    "In the steppe zone, the Bronze Age covers the Yamna, Catacomb, MRP, Srubna and other cultures."
+   ],
+   "artifacts": [
+    "bronze knives and axes",
+    "casting moulds",
+    "ceramic pots"
+   ]
+  },
+  "cimmerian": {
+   "title": "Cimmerians",
+   "dating": "c. 9th–7th centuries BCE",
+   "summary": "The earliest people of the northern Black Sea region whose name has been preserved in written sources. Archaeologically, the Cimmerians are linked with Late Bronze Age and Early Iron Age sites of the steppe.",
+   "facts": [
+    "The Cimmerians are mentioned by ancient authors and in Assyrian texts."
+   ],
+   "artifacts": [
+    "bronze bits and cheek-pieces",
+    "weapons"
+   ]
+  },
+  "early-iron-age": {
+   "title": "Early Iron Age",
+   "dating": "c. 9th century BCE – 3rd century CE",
+   "summary": "The period of the spread of iron. It covers the Scythian period, the Sarmatians and forest-steppe cultures with hillforts.",
+   "facts": [
+    "Iron gradually displaces bronze in the production of weapons and tools."
+   ],
+   "artifacts": [
+    "iron swords and points",
+    "hillforts with ramparts"
+   ]
+  },
+  "scythian": {
+   "title": "Scythian period",
+   "dating": "c. 7th–3rd centuries BCE",
+   "summary": "The age of the nomadic and semi-nomadic Scythians, who dominated the steppes of the northern Black Sea region. Scythian kurgans have yielded famous gold ornaments in the “animal style” and rich weaponry.",
+   "facts": [
+    "Herodotus wrote about the Scythians in detail.",
+    "The Motronyn hillfort in the Cherkasy Oblast is one of the well-known sites of the Scythian period in the forest-steppe."
+   ],
+   "artifacts": [
+    "gold ornaments in the animal style",
+    "arrowheads",
+    "akinakes (short swords)"
+   ]
+  },
+  "antique": {
+   "title": "Antiquity (Greek colonies)",
+   "dating": "c. 7th century BCE – 4th century CE",
+   "summary": "The Greek colonies of the northern Black Sea region — Olbia, Chersonesos and others — became centres of trade with the Scythians. Archaeologists find building foundations, necropolises and imported amphorae.",
+   "facts": [
+    "Olbia is located near the village of Parutyne in the Mykolaiv region.",
+    "Amphora stamps help to date layers and trace trade."
+   ],
+   "artifacts": [
+    "stamped amphorae",
+    "terracotta",
+    "black-glazed pottery"
+   ]
+  },
+  "sarmatian": {
+   "title": "Sarmatians",
+   "dating": "c. 3rd century BCE – 4th century CE",
+   "summary": "Iranian-speaking nomadic tribes who replaced the Scythians in the steppes. They are known for burials with weapons, mirrors and ornaments.",
+   "facts": [
+    "Sarmatian women were often buried with weapons and mirrors."
+   ],
+   "artifacts": [
+    "bronze mirrors",
+    "iron swords",
+    "beads and fibulae"
+   ]
+  },
+  "zarubyntsi": {
+   "title": "Zarubyntsi culture",
+   "dating": "c. 3rd century BCE – 2nd century CE",
+   "summary": "A culture of the Middle Dnipro region and Polissia, named after the village of Zarubyntsi in the Kyiv region. It has a farming and pastoral character, with hillforts and cemeteries.",
+   "facts": [
+    "The culture is considered one of the sources of later Slavic traditions."
+   ],
+   "artifacts": [
+    "hand-built pottery",
+    "fibulae",
+    "iron items"
+   ]
+  },
+  "chernyakhiv": {
+   "title": "Chernyakhiv culture",
+   "dating": "c. 2nd–5th centuries CE",
+   "summary": "A large farming culture of the Roman period on the territory of Ukraine, Moldova and Romania. It is named after the village of Chernyakhiv in the Kyiv region. Wheel-thrown pottery is typical of it.",
+   "facts": [
+    "The culture is multi-ethnic: it combines local, Gothic and other elements.",
+    "A distinctive feature is the high level of craftsmanship: pottery, metalworking and glassmaking."
+   ],
+   "artifacts": [
+    "wheel-thrown pottery",
+    "fibulae and combs",
+    "glass beads"
+   ]
+  },
+  "early-slavs": {
+   "title": "Early Slavs",
+   "dating": "c. 5th–9th centuries CE",
+   "summary": "The period of formation of Slavic cultures in Eastern Europe: Prague-Korchak, Penkivka, Kolochyn and others. Archaeologically these are small settlements with semi-subterranean dwellings.",
+   "facts": [
+    "The typical dwelling is a semi-subterranean house with a stone oven."
+   ],
+   "artifacts": [
+    "hand-built pot",
+    "spindle whorls",
+    "iron knives"
+   ]
+  },
+  "saltiv": {
+   "title": "Saltiv culture",
+   "dating": "c. 8th–10th centuries",
+   "summary": "A culture of the Khazar Khaganate, named after the Saltiv hillfort in the Kharkiv region. It is known for white-stone fortresses and developed crafts.",
+   "facts": [
+    "The Saltiv culture covers the Don region, the Donetsk region and Sloboda Ukraine."
+   ],
+   "artifacts": [
+    "wheel-thrown pottery",
+    "jewellery",
+    "weapons"
+   ]
+  },
+  "kyivan-rus": {
+   "title": "Kyivan Rus’",
+   "dating": "9th–13th centuries",
+   "summary": "The age of Kyivan Rus’: towns, castles, villages and Christian churches. Archaeologically these are the cultural layers of towns, rural settlements, kurgans and monasteries.",
+   "facts": [
+    "The Mongol invasion of 1240 destroyed many towns — archaeologists find traces of fires and hidden hoards.",
+    "Kyiv was the main centre of the state; Kyivan Rus’ is a subject of research for Kyiv archaeologists."
+   ],
+   "artifacts": [
+    "silver and gold ornaments",
+    "seals",
+    "pottery",
+    "iron tools"
+   ]
+  },
+  "nomads": {
+   "title": "Nomads and the Cumans (Polovtsians)",
+   "dating": "10th–14th centuries",
+   "summary": "The Pechenegs, Torks and Cumans (Kipchaks) lived in the steppes. The best-known sites are kurgans and stone statues, called “Polovtsian women” (kamiani baby).",
+   "facts": [
+    "The Cumans were for a long time sometimes allies and sometimes adversaries of the Rus’ princes.",
+    "The Pechenegs were the predecessors of the Cumans in the Black Sea steppes."
+   ],
+   "artifacts": [
+    "stone statues (kamiani baby)",
+    "stirrups and bits",
+    "arrowheads"
+   ]
+  },
+  "medieval": {
+   "title": "Middle Ages",
+   "dating": "5th–15th centuries",
+   "summary": "A broad category for sites from the early to the late Middle Ages. In the register, finds of different dates are usually recorded under this name.",
+   "facts": [
+    "Collections often combine layers of different centuries at one location."
+   ],
+   "artifacts": [
+    "pottery",
+    "iron items",
+    "coins"
+   ]
+  },
+  "late-medieval": {
+   "title": "Late Middle Ages and the Cossack era",
+   "dating": "14th–18th centuries",
+   "summary": "The period of the Grand Duchy of Lithuania, the Polish–Lithuanian Commonwealth and the Cossacks. Archaeologists study castles, towns, Cossack settlements and the Zaporozhian Sich.",
+   "facts": [
+    "The Zaporozhian Sich was located in the lower Dnipro, linked with Khortytsia."
+   ],
+   "artifacts": [
+    "pipes",
+    "coins",
+    "weapons and stove tiles"
+   ]
+  },
+  "modern": {
+   "title": "Modern period",
+   "dating": "16th–20th centuries",
+   "summary": "Later layers in towns and villages: household items, pottery, coins and the remains of buildings.",
+   "facts": [
+    "Modern-period materials are often found in the upper layers of the cultural deposit."
+   ],
+   "artifacts": [
+    "faience and porcelain",
+    "coins",
+    "household items"
+   ]
+  },
+  "other": {
+   "title": "Other / undetermined",
+   "dating": "—",
+   "summary": "Records for which the register has no dating, or the dating is so general that it does not allow the site to be assigned to a known culture.",
+   "facts": [
+    "Finds of different dates often mean that there were several layers at the site."
+   ]
+  }
+ },
+ "siteTypes": {
+  "settlement": {
+   "title": "Settlement",
+   "summary": "A place where people lived permanently or seasonally. Archaeologists look for traces of houses, pits, hearths and farm buildings, and the main find is fragments of pottery.",
+   "facts": [
+    "Settlements are assigned to a particular culture by their pottery and the layout of the dwelling remains."
+   ]
+  },
+  "city": {
+   "title": "Town",
+   "summary": "A fortified trading and craft settlement with dense buildings, churches and craft quarters; in the register these include both ancient Greek cities and Rus’ centres.",
+   "facts": [
+    "A town's cultural layer can reach several metres, because it was formed over centuries."
+   ]
+  },
+  "hillfort": {
+   "title": "Hillfort",
+   "summary": "A fortified settlement with ramparts and ditches. In the forest-steppe it is a typical site of the Scythian and Rus’ periods.",
+   "facts": [
+    "Studying ramparts and ditches shows how defensive lines were built."
+   ]
+  },
+  "campsite": {
+   "title": "Campsite",
+   "summary": "A temporary camp of Stone Age hunter-gatherers. Finds are stone tools, animal bones and traces of hearths.",
+   "facts": [
+    "Campsites are most often located on headlands and river terraces."
+   ]
+  },
+  "kurgan": {
+   "title": "Kurgan",
+   "summary": "A mound of heaped earth over a burial. Kurgans were built from the Eneolithic to the Middle Ages; they yield the most finds in the steppe.",
+   "facts": [
+    "Many kurgans contain several burials from different eras made in the same mound."
+   ]
+  },
+  "kurgan-cemetery": {
+   "title": "Kurgan cemetery",
+   "summary": "A group of kurgans built by one population. It makes it possible to trace the development of the burial rite.",
+   "facts": [
+    "Groups of kurgans are studied together to understand the social structure of the community."
+   ]
+  },
+  "burial": {
+   "title": "Cemetery and burial",
+   "summary": "A necropolis without kurgan mounds — flat-grave burials, often with grave goods. Burial goods tell about beliefs and society.",
+   "facts": [
+    "Cemeteries are usually located next to settlements of the same culture."
+   ]
+  }
+ },
+ "regions": {
+  "kyyiv": {
+   "summary": "The capital of Ukraine and the centre of the Rus’ state. Records for this region are mostly materials from research on Old Kyiv and its surroundings.",
+   "facts": [
+    "Kyiv was the main centre of Kyivan Rus’."
+   ]
+  },
+  "cherkaska": {
+   "summary": "The region with the largest number of records in the register: Trypillia, Scythian hillforts of the forest-steppe and sites of the Middle Dnipro region.",
+   "facts": [
+    "Talianky is a giant settlement of the Trypillia culture.",
+    "The Motronyn hillfort is a well-known Scythian site."
+   ]
+  },
+  "kyyivska": {
+   "summary": "Around Kyiv there are sites from the Stone Age to the Rus’ period, including Trypillia, named after the village of Trypillia.",
+   "facts": [
+    "The Trypillia culture was named after the village of Trypillia in the Kyiv region."
+   ]
+  },
+  "zaporizka": {
+   "summary": "The steppe Dnipro region and the Azov region with kurgans, as well as Khortytsia Island — a centre of Cossack history and ancient sites.",
+   "facts": [
+    "Khortytsia is the largest island on the Dnipro, linked with the Zaporozhian Sich."
+   ]
+  },
+  "mykolayivska": {
+   "summary": "The northern Black Sea region: ancient colonies and Scythian kurgans.",
+   "facts": [
+    "Olbia is an ancient Greek colony near Parutyne."
+   ]
+  },
+  "ark": {
+   "summary": "The Crimean peninsula: from Mousterian caves and Neanderthal campsites to ancient Chersonesos.",
+   "facts": [
+    "Kiik-Koba and Shaitan-Koba are well-known Palaeolithic sites.",
+    "Tauric Chersonesos was an ancient Greek city."
+   ]
+  },
+  "poltavska": {
+   "summary": "The Left-Bank forest-steppe with settlements and kurgans.",
+   "facts": [
+    "The Romny culture belongs to the Rus’ period on the Left Bank."
+   ]
+  }
+ },
+ "expeditions": {
+  "trypilska-arkheolohichna-ekspedytsiya": {
+   "summary": "The expedition with the most records in the register: materials from Trypillia settlements of the Right Bank, including Talianky."
+  },
+  "krymska-paleolitychna-arkheolohichna-ekspedytsiya": {
+   "summary": "Research on Mousterian and Late Palaeolithic sites in Crimea — caves and grottoes of the Crimean Mountains."
+  }
+ },
+ "regionNames": {
+  "Івано-Франківська": "Ivano-Frankivsk Oblast",
+  "АРК": "Autonomous Republic of Crimea",
+  "Білгородська": "Belgorod Oblast",
+  "Волинська": "Volyn Oblast",
+  "Воронезька": "Voronezh Oblast",
+  "Вінницька": "Vinnytsia Oblast",
+  "Дніпропетровська": "Dnipropetrovsk Oblast",
+  "Донецька": "Donetsk Oblast",
+  "Запорізька": "Zaporizhzhia Oblast",
+  "Київ": "Kyiv (city)",
+  "Київська": "Kyiv Oblast",
+  "Курська": "Kursk Oblast",
+  "Кіровоградська": "Kirovohrad Oblast",
+  "Луганська": "Luhansk Oblast",
+  "Миколаївська": "Mykolaiv Oblast",
+  "Молдова": "Moldova",
+  "Одеська": "Odesa Oblast",
+  "Полтавська": "Poltava Oblast",
+  "Рівненська": "Rivne Oblast",
+  "Сумська": "Sumy Oblast",
+  "Тернопільська": "Ternopil Oblast",
+  "Харківська": "Kharkiv Oblast",
+  "Херсонська": "Kherson Oblast",
+  "Хмельницька": "Khmelnytskyi Oblast",
+  "Черкаська": "Cherkasy Oblast",
+  "Чернівецька": "Chernivtsi Oblast",
+  "Чернігівська": "Chernihiv Oblast"
+ },
+ "expeditionNames": {
+  "Горсько-Кримська археологічна експедиція": "Hirsko-Krymska Archaeological Expedition",
+  "Дніпро-Донбас": "Dnipro-Donbas",
+  "Запорізька археологічна експедиція": "Zaporizhzhia Archaeological Expedition",
+  "Краснознамʼянська археологічна експедиція": "Krasnoznamiansk Archaeological Expedition",
+  "Кримська палеолітична археологічна експедиція": "Crimean Palaeolithic Archaeological Expedition",
+  "Кіровоградська археологічна експедиція": "Kirovohrad Archaeological Expedition",
+  "Орджонікідзевська археологічна експедиція": "Ordzhonikidze Archaeological Expedition",
+  "Приазовська археологічна експедиція": "Azov Region Archaeological Expedition",
+  "Середньодніпровська археологічна експедиція": "Middle Dnipro Archaeological Expedition",
+  "Трипільська археологічна експедиція": "Trypillia Archaeological Expedition",
+  "Українсько-польська експедиція": "Ukrainian-Polish Expedition"
+ },
+ "siteTypeLabels": {
+  "burial": "Cemetery / burial",
+  "campsite": "Campsite",
+  "city": "Town",
+  "hillfort": "Hillfort",
+  "kurgan": "Kurgan (burial mound)",
+  "kurgan-cemetery": "Kurgan cemetery",
+  "other": "Other",
+  "settlement": "Settlement"
+ },
+ "periodLabels": {
+  "paleolithic": "Palaeolithic",
+  "mousterian": "Mousterian",
+  "late-paleolithic": "Late Palaeolithic",
+  "mesolithic": "Mesolithic",
+  "neolithic": "Neolithic",
+  "eneolithic": "Eneolithic",
+  "tripillia": "Trypillia culture",
+  "yamna": "Yamna (Pit-Grave) culture",
+  "catacomb": "Catacomb culture",
+  "multi-roller": "Multi-Roller Pottery culture",
+  "srubna": "Srubna (Timber-Grave) culture",
+  "sabatynivka": "Sabatynivka culture",
+  "belogrudivka": "Bilohrudivka culture",
+  "bronze": "Bronze Age",
+  "cimmerian": "Cimmerians",
+  "early-iron-age": "Early Iron Age",
+  "scythian": "Scythian period",
+  "antique": "Antiquity",
+  "sarmatian": "Sarmatians",
+  "zarubyntsi": "Zarubyntsi culture",
+  "chernyakhiv": "Chernyakhiv culture",
+  "early-slavs": "Early Slavs",
+  "saltiv": "Saltiv culture",
+  "kyivan-rus": "Kyivan Rus’",
+  "nomads": "Nomads and Cumans (Polovtsians)",
+  "medieval": "Middle Ages",
+  "late-medieval": "Late Middle Ages and Cossack era",
+  "modern": "Modern period",
+  "other": "Other / undetermined"
+ },
+ "scholars": {
+  "kruts-v-o": {
+   "fullName": "Volodymyr Opanasovych Kruts",
+   "years": "1938–2014",
+   "bio": "Born in Kyiv in 1938, he graduated from the Faculty of History of Kyiv University in 1962 and began working at the Institute of Archaeology the same year. In 1973 he defended his candidate dissertation on the population of the Middle Dnipro region in the Copper Age, and in 1977 he published a monograph on the Late Trypillia sites of the region. From 1981 he excavated Talianky, one of the largest Trypillia mega-sites, and from 1990 he headed the Trypillia Expedition; he also directed the Bortnychi and Polissia expeditions. He was one of the initiators of the Trypillia Culture reserve in Lehedzyne; he was a laureate of the State Prize of Ukraine (2002) and an Honoured Worker of Culture (2009). He died in Lehedzyne in 2014.",
+   "fields": [
+    "Trypillia",
+    "Talianky",
+    "Middle Dnipro region",
+    "Eneolithic"
+   ]
+  },
+  "otroshchenko-v-v": {
+   "fullName": "Vitalii Vasylovych Otroshchenko",
+   "years": "b. 1945",
+   "bio": "Ukrainian archaeologist, head of the Department of Eneolithic and Bronze Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine (since 1992), Candidate (1981) and Doctor (2002) of Historical Sciences, professor (2005), laureate of the State Prize of Ukraine in Science and Technology. Born on 20 September 1945 in Chernihiv, he graduated from the Faculty of History of Kyiv University and has worked at the Institute of Archaeology since 1968. He studies the Bronze Age of South-Eastern Europe, in particular the Srubna and Catacomb cultures. He took part in the Kerch, Kakhovka and Zaporizhzhia construction-project expeditions and in 1975–1987 headed the Zaporizhzhia Expedition; he investigated more than 100 kurgans of the Dnipro–Molochna interfluve (the Stepovyi cemetery near Zapovitne, the Liubymivka, Hiunivka, Velyka Bilozerka and Velyka Znamianka kurgans, and the Chingul kurgan). Since 1992 he has been investigating Bronze Age settlements, kurgans and copper-ore mines in the Luhansk region. Author of more than 400 works. In the register, one entry (1146-1, Zaporizhzhia region, 1977) had the incorrect initials 'O. V.'; this has been corrected to 'V. V.'.",
+   "fields": [
+    "Srubna culture",
+    "Catacomb culture",
+    "Bronze Age"
+   ]
+  },
+  "sahaydak-m-a": {
+   "fullName": "Mykhailo Andriiovych Sahaidak",
+   "bio": "Kyiv archaeologist, Candidate of Historical Sciences (1986), senior researcher of the Department of Kyiv Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. Since 1986 he has directed the Podil Permanent Expedition and heads the State Enterprise 'Kyiv Archaeology Centre'.",
+   "fields": [
+    "Kyiv archaeology",
+    "Podil"
+   ]
+  },
+  "mozolevskyy-b-m": {
+   "fullName": "Borys Mykolaiovych Mozolevskyi",
+   "years": "1936–1993",
+   "bio": "Ukrainian archaeologist and poet, researcher of Scythian antiquities. From 1970 he headed the Ordzhonikidze Expedition, which studied the kurgans between the Solona, Bazavluk and Chortomlyk rivers; he directed the excavations of the Tovsta Mohyla kurgan, where a gold pectoral was found. Born in the village of Mykolaivka in the Mykolaiv region; archaeologist and poet, at the Institute of Archaeology from 1968, and from 1986 head of the Department of Scythian-Sarmatian Archaeology. In 1969–92 he directed the Ordzhonikidze Expedition, and in 1971 he discovered the gold pectoral in the Tovsta Mohyla kurgan; he was persecuted for his pro-Ukrainian views.",
+   "fields": [
+    "Scythians",
+    "kurgans",
+    "Tovsta Mohyla",
+    "Haimanova Mohyla"
+   ]
+  },
+  "kozlovskyy-a-o": {
+   "fullName": "Arkadii Oleksandrovych Kozlovskyi",
+   "bio": "Candidate of Historical Sciences, senior researcher at the Institute of Archaeology of the National Academy of Sciences of Ukraine. He graduated from Dnipropetrovsk University (1973) and the Institute's postgraduate programme (1977–1980), and in 1982 defended a dissertation on the historical and cultural development of the Southern Dnipro region in the 9th–14th centuries. In 1992–2018 he directed the Old Kyiv Archaeological Expedition, investigating Old Rus' and medieval Kyiv.",
+   "fields": [
+    "Old Rus' Kyiv",
+    "medieval Kyiv",
+    "Southern Dnipro region"
+   ]
+  },
+  "tolochko-p-p": {
+   "fullName": "Petro Petrovych Tolochko",
+   "years": "1938–2024",
+   "bio": "Ukrainian historian and archaeologist, Academician of the National Academy of Sciences of Ukraine, Doctor of Historical Sciences. He was Director of the Institute of Archaeology of the National Academy of Sciences of Ukraine (1987–2016) and then its Honorary Director. He studied Kyivan Rus' and ancient Kyiv.",
+   "fields": [
+    "Kyivan Rus'",
+    "ancient Kyiv"
+   ]
+  },
+  "blazhevych-n-v": {
+   "fullName": "Nataliia Vasylivna Blazhevych",
+   "years": "b. 1950",
+   "bio": "Archaeologist, researcher of Old Rus' sites of the Middle Dnipro region (b. 15.11.1950, Kyiv). In 1975 she graduated from the Department of Archaeology and Museum Studies of Kyiv University. From 1972 she worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine in the Department of Old Rus' and Medieval Archaeology, and from 1996 in the scientific archives (research collections); curator of Section IV (collections of the Slavic-Rus' period and the Middle Ages). She headed the Rzhyshchiv (1982, 1983), Khodoriv (1984, 1985) and Vytachiv (1989) detachments of the Dnipro Old Rus' Expedition, which investigated the towns of Ivan, Sviatopolch and others. Co-author of the works 'Drevnerusskie poseleniia Srednego Podneprovia' (1984) and 'Starozhytnosti Shestovytsi' (1996), and of the catalogue of the Institute's research collections (2007). Awarded the medal 'In Memory of the 1500th Anniversary of Kyiv' (1983).",
+   "fields": [
+    "Old Rus' archaeology",
+    "Middle Dnipro region",
+    "research collections",
+    "Slavic-Rus' collections"
+   ]
+  },
+  "movsha-t-h": {
+   "fullName": "Tamara Hryhorivna Movsha",
+   "years": "1922–2003",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, laureate of the Vikentii Khvoika Prize. From 1946 she took part in T. Passek's Trypillia Expedition, worked at the Kyiv Historical Museum, in 1977–1989 at the Department of Primeval Archaeology of the Institute of Archaeology, and later headed the Museum of Trypillia Culture in Pereiaslav. She studied Trypillia anthropomorphic figurines and settlements in Ukraine and Moldova. Born in the town of Liubech in the Chernihiv region; archaeologist and museologist, Candidate of Historical Sciences, she worked at the State Historical Museum of the Ukrainian SSR, then at the Institute of Archaeology, and from 1990 was director of the Museum of Trypillia Culture in Pereiaslav-Khmelnytskyi. She studied the Trypillia–Cucuteni community; she excavated at Zhvanets, Tsvitkove, Kosenivka, Dorohovody, Lomachyntsi and Soloncheni (Moldova).",
+   "fields": [
+    "Trypillia",
+    "anthropomorphic figurines",
+    "spiritual culture"
+   ]
+  },
+  "terpylovskyy-r-v": {
+   "fullName": "Rostyslav Vsevolodovych Terpylovskyi",
+   "years": "b. 1949",
+   "bio": "Ukrainian archaeologist and Slavicist, Doctor of Historical Sciences (1995), professor, laureate of the State Prize of Ukraine in Science and Technology (1991). Born on 24 April 1949 in Vinnytsia; he graduated from Kyiv University in 1974 and defended his candidate dissertation in 1980. In 1969–2012 he worked at the Institute of Archaeology, and from 2004 he headed the Department of Archaeology and Museum Studies at Taras Shevchenko Kyiv National University. He studies Slavic ethnogenesis and cultural genesis (La Tène period, Roman period and the Migration Period) and the antiquities of the Middle and Upper Dnipro region — Late Zarubyntsi sites and the Kyiv culture as the basis for the formation of the Sclaveni and the Antes. He investigated the settlements of Ulianivka, Roishche, Oleksandrivka (Chernihiv region), Hlevakha (Kyiv region), Sencha, Boromlia and Riabivka. Author of 'Rannie slaviane Podesenia III–V vv. n. e.' (1984) and 'Slaviane Podneprovia v pervoi polovine I tys. n. e.' (2004).",
+   "fields": [
+    "early Slavs",
+    "Kyiv culture",
+    "Zarubyntsi culture"
+   ]
+  },
+  "tovkaylo-m-t": {
+   "fullName": "Mykola Tykhonovych Tovkailo",
+   "years": "b. 1949",
+   "bio": "Ukrainian archaeologist and kobzar, Candidate of Historical Sciences (1998). Born 24.12.1949 in the village of Korovie in the Khmelnytskyi region. His dissertation was 'The Neolithic of the Steppe Buh Region'; he studies the Neolithic of the Southern Buh (monograph 'The Neolithic of the Steppe Buh Region', 2005) and the multilayer settlement of Hard. He worked at the Institute of Archaeology (1976–1983, 2001–2015) and took part in the Mykolaiv construction-project expedition; he now heads a sector of the Pereiaslav National Historical and Ethnographic Reserve and chairs the Pereiaslav-Khmelnytskyi district branch of 'Prosvita'. He studied the bandura from 1978 under Heorhii Tkachenko, and since 2001 has been tsekhmeister of the Kyiv Kobzar Guild and a master of old-style banduras. Author of an article on the Bozhka archaeological expedition of 1930–1932 (2017).",
+   "fields": [
+    "Neolithic",
+    "Southern Buh",
+    "Mykolaiv region",
+    "Hard",
+    "Zaporozhian Cossacks",
+    "kobzar art",
+    "bandura",
+    "Pereiaslav"
+   ]
+  },
+  "kuchera-m-p": {
+   "fullName": "Mykhailo Petrovych Kuchera",
+   "years": "1922–1999",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences, laureate of the State Prize of Ukraine, participant in the Second World War. He worked at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR and in 1974–1986 headed the Department of Field Research. A specialist in Old Rus' hillforts and fortifications of Southern Rus'; he studied the Serpent's Ramparts of the Middle Dnipro region and Plisnesk.",
+   "fields": [
+    "Old Rus' hillforts",
+    "Serpent's Ramparts",
+    "fortification",
+    "Old Rus' pottery"
+   ]
+  },
+  "kryzhanovskyy-v-o": {
+   "fullName": "Viacheslav Olehovych Kryzhanovskyi",
+   "bio": "Junior researcher in the Department of Kyiv Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studied at the M. P. Drahomanov National Pedagogical University (Bachelor of History, 2007). Since 2006 he has been a participant in the Old Kyiv Archaeological Expedition. Research interests: the archaeology and history of Old Rus' and medieval Kyiv, studies of Upper Kyiv, and the production and processing of non-ferrous metals in Kyiv in the 10th–13th centuries. He is carrying out the project 'New Archaeological Sources for the History of Ancient Kyiv'.",
+   "fields": [
+    "Kyiv",
+    "Old Rus' Kyiv",
+    "Old Kyiv Expedition",
+    "metalworking"
+   ]
+  },
+  "baran-v-d": {
+   "fullName": "Volodymyr Danylovych Baran",
+   "years": "1927–2019",
+   "bio": "Ukrainian archaeologist and Slavicist, Doctor of Historical Sciences (1973), professor, corresponding member of the National Academy of Sciences of Ukraine (1995). Born 9.08.1927 in the village of Demianiv (now in the Ivano-Frankivsk region), he died on 5.11.2019 in Kyiv. He graduated from the Lviv Pedagogical Institute (1950), worked in Lviv, and from 1969 at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR; from 1974 he headed the Department of Slavic Archaeology he had created. Laureate of the State Prize of the Ukrainian SSR (1991) for the monograph 'The Slavs of South-Eastern Europe in the Pre-State Period'. He studied the origin of the Slavs, early Slavic history, and the Chernyakhiv and Prague cultures; he excavated Rypniv, Rakobuty, Zelenyi Hai, Zvynyach, Bovshiv, Rashkiv and other sites. Author of the books 'Davni slov'iany' (Ancient Slavs), 'Cherniakhivska kultura' (The Chernyakhiv Culture) and 'Prazhskaia kultura Podnestrovia' (The Prague Culture of the Dniester Region).",
+   "fields": [
+    "early Slavs",
+    "Chernyakhiv culture",
+    "Prague culture",
+    "Upper Dniester region"
+   ]
+  },
+  "ivakin-v-h": {
+   "fullName": "Vsevolod Hlibovych Ivakin",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (2009, dissertation 'Burial Sites of Old Rus' Kyiv'), head of the Department of Kyiv Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He graduated from the Faculty of History of Kyiv University (2000). He studies Old Rus' and medieval archaeology, burial rites of the Dnipro region in the 9th–18th centuries, the medieval city, churches and cemeteries, and rescue urban archaeology; he is interested in the Viking Age. Since 2012 he has directed the Vyshhorod Expedition and takes part in the Podil, Old Kyiv, Polissia, Zhytomyr and other expeditions. Co-author of the monograph 'Princes and Potters. The Posad of Old Rus' Vyshhorod' (2023).",
+   "fields": [
+    "Old Rus' Kyiv",
+    "Vyshhorod",
+    "burial rites",
+    "rescue urban archaeology"
+   ]
+  },
+  "kryhanov-a-v": {
+   "fullName": "Andrii Vasylovych Kryhanov",
+   "years": "1955–2008",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, researcher of the nomadic cultures of the Northern Black Sea region. Born on 28 January 1955 in Sumy. He graduated from the Faculty of History of Kharkiv University (entered in 1972) and after postgraduate studies worked and pursued archaeology there. He took part in the excavations of the Netailivka necropolis in the Kharkiv region, where he died in 2008. He planned to devote his doctoral dissertation to the military affairs of the nomads. Author of articles in 'Arkheolohiia Ukrainy' (Kharkiv). In the register (entry 1240-1, Kharkiv region, 2003) his initials were recorded incorrectly as 'N. V.'; this has been corrected to 'A. V.'.",
+   "fields": [
+    "nomads of the Black Sea region",
+    "Kharkiv region",
+    "Netailivka necropolis"
+   ]
+  },
+  "nazarov-v-v": {
+   "fullName": "Volodymyr V. Nazarov",
+   "years": "1956–2004",
+   "bio": "Ukrainian archaeologist specializing in classical antiquity (14.01.1956 – 09.11.2004), for many years head of the Berezan Expedition of the Institute of Archaeology of the National Academy of Sciences of Ukraine. From 1982 he worked in the Department of Classical Archaeology; his expertise was formed in the Olbia Expedition under the direction of S. D. Kryzhytskyi, A. S. Rusiaieva and V. V. Krapivina. In 1989 he took charge of the Berezan Expedition and devoted fifteen field seasons to ancient Borysthenes. In 1996 the expedition under his direction discovered on Berezan the temple of Aphrodite and the temenos of the Late Archaic and Early Classical settlement of Borysthenes. Author of more than 100 works, organizer of the international 'Borysthenika' conferences (1998, Kyiv; 2004, Ochakiv). Materials from his excavations are displayed in the Mykolaiv Regional Museum of Local History. Note: the source does not give his patronymic; register entry 1185-1 (Meganom, Feodosia district, 1983, underwater research) was identified by surname and initials.",
+   "fields": [
+    "classical archaeology",
+    "Berezan",
+    "Olbia",
+    "Borysthenes"
+   ]
+  },
+  "ryzhov-s-m": {
+   "fullName": "Serhii Mykolaiovych Ryzhov",
+   "years": "b. 1965",
+   "bio": "Ukrainian archaeologist and Palaeolithic specialist, Candidate of Historical Sciences (1999, dissertation 'Adaptation of Early Palaeoanthropes to the Environment of Central Europe'), associate professor, since 2002 head of the Department of Archaeology and Museum Studies at Taras Shevchenko Kyiv National University. Born on 23 December 1965 in Zaporizhzhia; he studied at Kyiv University (1988–1993). Research interests: the technology of stone tool production, raw material resources of the Stone Age, and the palaeoecology of Palaeolithic settlements. Since 1989 he has studied Palaeolithic sites in Transcarpathia (Mala Rakovets, Rokosove); he took part in the excavations of Mezhyrich, Zaskelna, Kabazi, Korolevo, and sites in Germany. Founder of the Society of Archaeology and Anthropology (1997). Author of more than 60 works. Note: the identification with register entry 1284-1 (Cherkasy region, 1986, Trypillia culture) is based on surname and initials; his main specialization is the Palaeolithic, so this is an assumption.",
+   "fields": [
+    "Palaeolithic",
+    "stone tool technology",
+    "Transcarpathia",
+    "Mezhyrich"
+   ]
+  },
+  "yanevych-o-o": {
+   "fullName": "Oleksandr Oleksandrovych Yanevych",
+   "bio": "Candidate of Historical Sciences, researcher in the Department of Stone Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studies the Late Palaeolithic, Mesolithic and Neolithic of Crimea and the south of Eastern Europe: the cultural and technological traditions of the ancient population, the chronology and periodization of sites, and problems of the primeval economy. He is working on the topic 'The Material Culture of Neolithic Sites of Mountainous Crimea'. He co-directed the Ukrainian-French (2009–2013) and Ukrainian-Japanese (2008) expeditions at the Buran-Kaya 3 and 4 sites, and took part in the Ukrainian-French Mezhyrich expedition (2006–2007).",
+   "fields": [
+    "Late Palaeolithic",
+    "Mesolithic",
+    "Neolithic",
+    "Crimea",
+    "Buran-Kaya"
+   ]
+  },
+  "movchan-i-i": {
+   "fullName": "Ivan Ivanovych Movchan",
+   "years": "1939–2024",
+   "bio": "Staff member of the Institute of Archaeology of the National Academy of Sciences of Ukraine from 1970. Headed the Kyiv Permanent Expedition and the Old Kyiv (Starokyiv) Expedition, and studied Vydubychi, St Cyril's Church, the environs of Kyiv and the Kyiv Pechersk caves. Laureate of the State Prize (1983).",
+   "fields": [
+    "Ancient Kyiv",
+    "Kyivan Rus",
+    "Vydubychi"
+   ]
+  },
+  "kolosov-yu-h": {
+   "fullName": "Yurii Heorhiiovych Kolosov",
+   "years": "1924–2002",
+   "bio": "Born in 1924 in the village of Derebchyn in the Vinnytsia region; a participant in the Second World War. Graduated from Kyiv University (1949), worked at the Caucasus Karst and Speleological Station and at the Crimean Branch of the USSR Academy of Sciences, and from 1954 at the Institute of Archaeology in Kyiv; Doctor of Historical Sciences (1986). From 1969 he headed the Crimean Palaeolithic Expedition, which investigated multilayer Middle Palaeolithic sites, including dozens of sites of the Chervona Balka, among them Zaskelna V and VI. He studied the cultural differentiation and periodization of the Middle Palaeolithic of Crimea and the interaction of early humans with their environment. He died in 2002 in Kyiv.",
+   "fields": [
+    "Crimean Palaeolithic",
+    "Mousterian"
+   ]
+  },
+  "polin-s-v": {
+   "fullName": "Serhii Vasylovych Polin",
+   "bio": "Candidate of Historical Sciences, senior researcher in the Department of Early Iron Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studies the Scythians of the Northern Black Sea region and the chronology of Scythian kurgans; in 1994–2003 he headed the Ordzhonikidze Expedition in the Nikopol area, and later excavated the Oleksandropil kurgan.",
+   "fields": [
+    "Scythians",
+    "kurgans",
+    "chronology",
+    "Ordzhonikidze Expedition"
+   ]
+  },
+  "terenozhkin-o-i": {
+   "fullName": "Oleksii Ivanovych Terenozhkin",
+   "years": "1907–1981",
+   "bio": "Archaeologist, Doctor of Historical Sciences (1959), professor, laureate of the State Prize of the Ukrainian SSR. From 1948 he worked at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR, where he headed a department. He studied Scythian and pre-Scythian sites, including the Chornyi Lis culture, and developed the foundations of the chronology of the Late Bronze Age and the beginning of the Iron Age.",
+   "fields": [
+    "Scythians",
+    "Chornyi Lis culture",
+    "Late Bronze Age",
+    "Early Iron Age"
+   ]
+  },
+  "yakovleva-l-a": {
+   "fullName": "Liudmyla Anatoliivna Yakovleva",
+   "bio": "Candidate of Historical Sciences, senior researcher in the Department of Stone Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine; born in 1954 in Dnipropetrovsk, graduated from Kyiv University (1978). She studies Upper Palaeolithic societies of Eurasia, settlements with dwellings made of mammoth bones, and Palaeolithic art. Since 1993 she has led the international expedition at the Hintsi site in the Poltava region, and has also taken part in excavations at Mezhyrich and other sites.",
+   "fields": [
+    "Late Palaeolithic",
+    "Hintsi",
+    "mammoth-bone dwellings",
+    "Palaeolithic art"
+   ]
+  },
+  "krotova-o-o": {
+   "fullName": "Oleksandra Oleksandrivna Krotova",
+   "bio": "Researcher of the Late Palaeolithic of Eastern Europe, staff member of the Department of Stone Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine; Candidate (1986) and Doctor (2019) of Historical Sciences. She led excavations of the Palaeolithic site and bison bone bed near Amvrosiivka, as well as of the sites of Yanisol, Fedorivka and others in the Donetsk and Luhansk regions.",
+   "fields": [
+    "Late Palaeolithic",
+    "Amvrosiivka",
+    "Donbas"
+   ]
+  },
+  "burdo-n-b": {
+   "fullName": "Nataliia Borysivna Burdo",
+   "bio": "Ukrainian researcher of the Trypillia culture, Candidate of Historical Sciences, leading researcher at the Institute of Archaeology of the National Academy of Sciences of Ukraine. Author of the monograph \"The Sacred World of the Trypillia Civilization\" and co-author of works on Trypillia.",
+   "fields": [
+    "Trypillia culture",
+    "Eneolithic"
+   ]
+  },
+  "bilozor-v-p": {
+   "fullName": "Volodymyr Pavlovych Bilozor",
+   "years": "1952–2014",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, associate professor, specialist in Early Iron Age archaeology (13.01.1952, village of Zavturove in the Kirovohrad region – 16.04.2014, Kyiv). In 1975 he graduated from the Faculty of History of Kyiv University. He worked at the Institute of Archaeology (Department of Scythian Archaeology, from 1987 the Department of the Early Iron Age) and at the State Museum of Historical Treasures of Ukraine; in 1986 he defended a dissertation on Scythian stone statues of the 7th–4th centuries BC. He studied the Northern Black Sea region in the Early Iron Age and Cimmerian and Scythian monumental art; he took part in more than 40 expeditions, including the excavation of the Scythian Soboleva Mohyla kurgan and many years of research on the ash mounds of the Bilsk hillfort. Associate professor at the National University of Culture and Arts, author of about 60 works. Co-author of the monograph \"Settlements of the Scythian Period in the System of the Great Fortification of the Bilsk Hillfort\" (2019).",
+   "fields": [
+    "Scythian period",
+    "Bilsk hillfort",
+    "Scythian stone statues",
+    "Cimmerians"
+   ]
+  },
+  "petrashenko-v-o": {
+   "fullName": "Valentyna Oleksiivna Petrashenko",
+   "years": "1950–2006",
+   "bio": "Ukrainian archaeologist (14.12.1950 – 2006), graduate of the Faculty of History of Kyiv University (1975), staff member of the Institute of Archaeology of the National Academy of Sciences of Ukraine. In 1982 she defended her candidate's dissertation \"The Forest-Steppe Right-Bank Dnipro Region in the 8th–10th Centuries\". As deputy head of the expedition, she directed the excavations of the Slavic-Rus hillfort of Monastyrok. She focused mainly on medieval rural sites of the Middle Dnipro region: Kozakiv Yar near Khodosivka, the Hryhorivka settlement in the Chernecha tract, Rozhana Krynytsia near Buchak, and Revutove near Hryhorivka; in the 1990s she carried out surveys in the basin of the Vita River and on the shore of the Kaniv Reservoir (more than 300 sites catalogued). Author of over a hundred works, including monographs on Monastyrok (1988) and on Slavic pottery of the 8th–9th centuries (1992), a catalogue of sites on the shore of the Kaniv Reservoir (1999), \"Trakhtemyriv: A Journey into Antiquity\" (2001), and \"Древнерусское село\" (\"The Old Rus Village\", 2005). In 1991–2002 she was scientific secretary of the specialized dissertation defence council. She spent her last field season in 2005 at the Lysukha hillfort in Buchak.",
+   "fields": [
+    "Middle Dnipro region",
+    "Kaniv Dnipro region",
+    "Old Rus settlements",
+    "Zarubyntsi culture"
+   ]
+  },
+  "bratchenko-s-n": {
+   "fullName": "Stanislav Nykyforovych Bratchenko",
+   "years": "1936–2011",
+   "bio": "Ukrainian archaeologist, researcher of the Bronze Age, born in Krasnyi Luch, studied in Leningrad, and from 1967 worked at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR. He led construction-related expeditions, including, in the 1970s, excavations of kurgans in the Luhansk and Donetsk regions, where the so-called \"Bratchenko school\" took shape. He later processed and published the materials from these excavations.",
+   "fields": [
+    "Bronze Age",
+    "kurgans of the Luhansk and Donetsk regions",
+    "construction-related expeditions"
+   ]
+  },
+  "kozub-yu-i": {
+   "fullName": "Yuliia Ivanivna Kozub",
+   "years": "b. 1928",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (1963), born on 16.08.1928 in Moscow. In 1953 she graduated from Kyiv University. In 1952–1959 she worked at the \"Znannia\" society (taking part in establishing the Kyiv Excursion Bureau), and from 1959 at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR, from 1979 as a senior researcher; concurrently she was a senior researcher at the Olbia Reserve (village of Parutyne in the Mykolaiv region). In 1951–2005 she investigated the ancient city of Olbia; from 1964 she headed the study of the necropolis and suburb: she discovered the main area of the necropolis of the first centuries AD and the suburb of the 6th–4th centuries BC, and applied large-area excavation to the necropolis. She developed a programme for turning Olbia into a tourist site. Author of \"The Necropolis of Olbia of the 5th–4th Centuries BC\" (1974), \"The Suburb of Olbia\" (1979), and \"Историческая топография некрополя Ольвии\" (\"The Historical Topography of the Necropolis of Olbia\", 1984).",
+   "fields": [
+    "Olbia",
+    "necropolis",
+    "ancient Northern Black Sea region"
+   ]
+  },
+  "kubyshev-a-i": {
+   "fullName": "Anatolii Ivanovych Kubyshev",
+   "years": "1938–2001",
+   "bio": "Soviet and Ukrainian archaeologist (26.04.1938, Starobilsk – 4.01.2001, Kyiv). Graduated from Kyiv University (1960) and from November 1960 worked at the Institute of Archaeology of the Academy of Sciences of Ukraine: laboratory assistant, junior researcher in the Department of Slavic Archaeology, and from 1990 researcher in the Department of Construction-Related Expeditions. He headed the Komariv detachment of the Kaniv Old Rus Expedition (1964–1968), the Kyiv Expedition (1968–1972) and the Kherson Expedition (1974–1995), one of the largest in scope of work; its base in Kakhovka was open to colleagues from Ukraine, Bulgaria, Lithuania and Russia. Author of more than 60 publications in his lifetime.",
+   "fields": [
+    "Kherson region",
+    "construction-related expeditions",
+    "Kakhovka",
+    "Old Rus archaeology"
+   ]
+  },
+  "buyskykh-s-b": {
+   "fullName": "Serhii Borysovych Buyskykh",
+   "years": "1949–2020",
+   "bio": "Ukrainian archaeologist and classical antiquity specialist, Candidate of Historical Sciences (1984), senior researcher at the Institute of Archaeology of the National Academy of Sciences of Ukraine. Born on 27.07.1949 in the city of Kurgan, died on 8.03.2020 in Kyiv. He studied at the Faculty of History of Kyiv University (1966–1971); he worked at the Institute of Archaeology from November 1974, having joined it already as a schoolboy in the \"Young Archaeologist\" club. A specialist in the classical archaeology of the Northern Black Sea region: he identified more than 200 ancient settlements in surveys and investigated about 20 hillforts, settlements and necropolises in the chora of Olbia. Author of about 170 scholarly works, including three monographs.",
+   "fields": [
+    "classical archaeology",
+    "chora of Olbia",
+    "Northern Black Sea region",
+    "classical antiquity studies"
+   ]
+  },
+  "illinska-v-a": {
+   "fullName": "Varvara Andriivna Illinska",
+   "years": "1920–1979",
+   "bio": "Ukrainian Soviet archaeologist and Scythologist, Doctor of Historical Sciences (1972), laureate of the State Prize of the Ukrainian SSR (1977) for the collective monograph \"Archaeology of the Ukrainian SSR\". Born on 19.09.1920 in Izhevsk, died on 11.12.1979 in Kyiv. In 1941 she graduated from Leningrad University, and from 1945 she worked at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR. Together with her husband O. I. Terenozhkin she was one of the founders of the Kyiv school of Scythian studies. Author of \"Скифы Днепровского лесостепного Левобережья\" (\"The Scythians of the Dnieper Forest-Steppe Left Bank\", 1968) and \"Раннескифские курганы бассейна р. Тясмин\" (\"Early Scythian Kurgans of the Tiasmyn River Basin\", 1975), and co-author of \"Скифия VII–IV вв. до н. э.\" (\"Scythia of the 7th–4th Centuries BC\", 1983).",
+   "fields": [
+    "Scythian archaeology",
+    "Tiasmyn",
+    "forest-steppe kurgans",
+    "Early Scythian kurgans"
+   ]
+  },
+  "kulatova-i-m": {
+   "fullName": "Iryna Mykolaivna Kulatova",
+   "bio": "Ukrainian archaeologist and heritage conservationist, leading researcher at the Centre for the Protection and Study of Archaeological Monuments (TsODPA) of the Poltava Regional Council. She studies the earliest past of the Dnipro forest-steppe Left Bank region. A bio-bibliographic index is dedicated to her, \"Kulatova Iryna Mykolaivna – Archaeologist and Heritage Conservationist\" (Kyiv, 2012; introductory article by P. K. Bondarevskyi, S. A. Skoryi, O. M. Tytova; scientific editor O. B. Suprunenko), which contains a biographical sketch and a list of her published and archival works.",
+   "fields": [
+    "Left-Bank Forest-Steppe",
+    "Poltava region",
+    "protection of archaeological monuments"
+   ]
+  },
+  "nikitina-h-f": {
+   "fullName": "Halyna Fedorivna Nikitina",
+   "bio": "Ukrainian archaeologist, staff member of the Institute of Archaeology of the National Academy of Sciences of Ukraine. In the accessions register she is represented by entry 1180-1 (Chernivtsi region, 1972, Scythian period). Her full name (Halyna Fedorivna) is given according to a reference record of the Vernadsky National Library of Ukraine; further biographical data have not been verified.",
+   "fields": [
+    "Scythian archaeology",
+    "Chernivtsi region"
+   ]
+  },
+  "serhyeyeva-m-s": {
+   "fullName": "Maryna Serhiivna Serhieieva",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences (2019, dissertation \"Bone-Carving and Woodworking Crafts in the Territory of Southern Rus\"), leading researcher in the Department of Archaeology of Kyiv of the Institute of Archaeology of the National Academy of Sciences of Ukraine. Graduated from Voronezh State University (1982); defended her candidate's dissertation in 1994 (urban dwellings of Southern Rus from the late 9th to the 16th century, supervisor M. A. Sahaidak). She has worked in the Podil Permanent Expedition since 1989 and is now its head. She studies Old Rus and medieval archaeology, medieval crafts, bioeconomy, palaeoecology, archaeodendrology and anthracology, the working of wood, bone and antler, and the archaeology of everyday life. She identifies species of archaeological wood and worked bone from excavations of Early Medieval and Old Rus settlements. Member of the Union of Archaeologists of Ukraine.",
+   "fields": [
+    "Old Rus archaeology",
+    "Kyiv, Podil",
+    "medieval crafts",
+    "archaeodendrology"
+   ]
+  },
+  "hotun-i-a": {
+   "fullName": "Ihor Anatoliiovych Hotun",
+   "bio": "Researcher of Old Rus' and medieval archaeology at the Institute of Archaeology of the National Academy of Sciences of Ukraine. Since 2001 he has headed the Northern Permanent Expedition; he studies sites in the Kyiv, Chernihiv and Zhytomyr regions.",
+   "fields": [
+    "Old Rus'",
+    "Northern Expedition",
+    "Polissia"
+   ]
+  },
+  "videyko-m-yu": {
+   "fullName": "Mykhailo Yuriiovych Videiko",
+   "years": "b. 1956",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences (2016), researcher of the Trypillia culture (b. 23.01.1956, Kyiv). He graduated from Taras Shevchenko Kyiv University (1982) and worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine in the Department of Eneolithic–Bronze Age Archaeology (until 1994 and 2001–2016). His Candidate dissertation (1993) dealt with the economy and social order of the Trypillia population of the Dniester–Southern Bug interfluve; his doctoral dissertation (2016) was \"Ethnosocial Transformations in Central and South-Eastern Europe in the 5th–4th Millennia BC\". From 2016 he headed the Archaeology Research Laboratory of Grinchenko University, and from 2023 he has been a professor in the Department of History of Ukraine. He studied the Trypillia settlements of Trypillia, Khatyshche, Khomyne and Yancha VI, took part in excavations at Maidanetske, Talne 2 and Nebelivka, and participated in the projects \"Baltic-Pontic Studies\" and \"Trypillia Culture Mega-Sites\". Author of more than 750 works, including 16 monographs (\"Trypillian Civilization\", 2001; \"Along the Paths of the Trypillian World\", 2008; \"Weapons and Warfare among the Ancient Farmers of Europe\", 2019). Editor-in-chief of the \"Encyclopedia of Trypillian Civilization\" (2004). Honorary Citizen of the village of Trypillia (2013), Honored Worker of Science and Technology of Ukraine (2021), corresponding member of the German Archaeological Institute (2023).",
+   "fields": [
+    "Trypillia",
+    "Trypillian proto-cities",
+    "mega-sites",
+    "Neo-Eneolithic of Europe",
+    "palaeogenetics"
+   ]
+  },
+  "khamayko-n-v": {
+   "fullName": "Natalia Vitaliivna Khamaiko",
+   "bio": "Archaeologist, PhD, junior research fellow in the Scientific Archives Section of the Institute of Archaeology of the National Academy of Sciences of Ukraine. She studies the archaeology and history of Rus' in the Middle Dnipro region: religion, trade, everyday life, board games, and the status of women.",
+   "fields": [
+    "Kyivan Rus'",
+    "Middle Dnipro region",
+    "everyday life"
+   ]
+  },
+  "slavin-l-m": {
+   "fullName": "Lazar Moiseiovych Slavin",
+   "years": "1906–1971",
+   "bio": "Ukrainian Soviet archaeologist, Candidate of Historical Sciences (1938), docent (1956), corresponding member of the Academy of Sciences of the Ukrainian SSR (1939). Born on 11 June 1906 in Vitebsk, he graduated from Leningrad University in 1928 and worked at the Institute for the History of Material Culture in 1929–1938. From 1939 he worked at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR: twice its director (1939–1941, 1944–1945), deputy director (1946–1949), and from 1970 head of the Department of Classical Archaeology. In 1938–1971 he headed the Olbia reserve, and in 1945–1970 he chaired the Department of Archaeology and Museum Studies at Kyiv University. His students included N. Leipunska and H. Mezentseva. Author of \"Olbia\" (1938), \"The Ancient City of Olbia\" (1951), and \"Problems of the History of the Northern Black Sea Region in the Ancient Era\" (1959). Laureate of the State Prize of the Ukrainian SSR (1977, posthumously). He died on 30 November 1971 in Kyiv and is buried at Baikove Cemetery.",
+   "fields": [
+    "Olbia",
+    "classical antiquity",
+    "Northern Black Sea region"
+   ]
+  },
+  "neprina-v-i": {
+   "fullName": "Valentyna Ivanivna Nieprina (Mytrofanova)",
+   "bio": "Archaeologist at the Institute of Archaeology, researcher of the Neolithic and other periods of Left-Bank Ukraine. She worked in construction-related and planned expeditions in the Dnipro and Desna regions, and discovered and studied dozens of sites, primarily Neolithic (the Dnipro-Donets community, pit-comb ware, the Lysohubivka culture), as well as Eneolithic, Bronze Age, Slavic and Old Rus' ones. Author of a monograph on the pit-comb ware Neolithic (1976) and co-author of a work on the Stone Age sites of Left-Bank Ukraine (1986). According to her Google Scholar profile (affiliation: Institute of Archaeology of the National Academy of Sciences of Ukraine), her works also include \"The Novorozanovka Multilayer Settlement\", \"The Teteriv Settlement of the Dnipro-Donets Culture\", \"Sites of the Zarubyntsi Period on the Donets\", \"Fishing in the Mesolithic–Eneolithic of Ukraine\", and a report on research in the Kyiv Reservoir zone (1962).",
+   "fields": [
+    "Neolithic",
+    "pit-comb ware",
+    "Left-Bank Ukraine",
+    "Mesolithic–Eneolithic",
+    "Zarubyntsi culture"
+   ]
+  },
+  "kukharchuk-yu-v": {
+   "fullName": "Yurii Vasyliovych Kukharchuk",
+   "years": "b. 1951",
+   "bio": "Ukrainian archaeologist specializing in the Palaeolithic, Candidate of Historical Sciences. Born on 21.12.1951 in the village of Ustia in the Rivne region. In 1977 he graduated from the Faculty of History of Kyiv University. Until 1996 he worked at the Archaeological Museum of the Institute of Archaeology, then in the Department of Stone Age Archaeology (until retiring in 2014). In 1993 he defended the dissertation \"The Early Palaeolithic of Ukrainian Polissia\". He studied the Lower and Middle Palaeolithic and tool-making technology; he took part in excavations of sites in Transcarpathia, Crimea, Volhynia and the Left Bank, and discovered about 30 Stone Age sites. Academic secretary of the department and executive secretary of the publication \"Stone Age of Ukraine\". Since 2001 he has taught the course \"Technology of Primitive Production\" at the National University of Kyiv-Mohyla Academy. Author of more than 115 works.",
+   "fields": [
+    "Palaeolithic",
+    "Polissia",
+    "Volhynia",
+    "stone tool technology"
+   ]
+  },
+  "stepanchuk-v-m": {
+   "fullName": "Vadym Mykolaiovych Stepanchuk",
+   "bio": "Palaeolithic researcher at the Institute of Archaeology of the National Academy of Sciences of Ukraine, Doctor of Historical Sciences (2008). He studies the Lower, Middle and Early Upper Palaeolithic of Eastern Europe. He took part in the Crimean Palaeolithic expeditions from 1982, co-led the Volhynian Expedition in 1988 and led the Mountain Crimea Expedition in 1993–1994, as well as the Medzhybizh and other Palaeolithic expeditions.",
+   "fields": [
+    "Palaeolithic",
+    "Mousterian",
+    "Crimea",
+    "Medzhybizh"
+   ]
+  },
+  "mahomedov-b-v": {
+   "fullName": "Borys Viktorovych Mahomedov",
+   "years": "b. 1949",
+   "bio": "Doctor of Historical Sciences, leading research fellow in the Department of Early Slavic Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. Specialist in the Chernyakhiv culture and the Migration Period; he directed excavations of the Chernyakhiv sites of Vinnytsia–Vyshenka, Petrykivtsi and Lehedzyne, and surveys in the Vinnytsia and Kyiv regions.",
+   "fields": [
+    "Chernyakhiv culture",
+    "Roman period",
+    "early Slavs"
+   ]
+  },
+  "fomenko-v-m": {
+   "fullName": "Viktor Mykolaiovych Fomenko",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, staff member of the Institute of Archaeology of the National Academy of Sciences of Ukraine; he graduated from the Faculty of History of Odesa University (1970). From 1973 he took part in the excavation of kurgans in the irrigation-system zone of the Mykolaiv region as part of the Inhul Construction Expedition (first as a team leader, later as deputy head), and since 1989 he has headed the Mykolaiv Construction Expedition. He studies steppe sites of the Eneolithic and Early–Middle Bronze Age, in particular the multilayer settlement of Hard. Author of works on the multilayer sites of Hard and Lydyna Balka (jointly with M. T. Tovkailo), on burials of the Inhul culture, and on the Tashlyk 2 site; since 2017 he has been working on the topic \"Cultural Genesis in the Eneolithic–Bronze Age on the Territory of Ukraine\". In the register, entries with the initials \"V. I.\" and \"V. A.\" (including 1326-1, Mykolaiv region, 2008) have been corrected to \"V. M.\".",
+   "fields": [
+    "Eneolithic",
+    "Early and Middle Bronze Age",
+    "Mykolaiv region",
+    "Hard"
+   ]
+  },
+  "shaposhnykova-o-h": {
+   "fullName": "Olimpiada Havrylivna Shaposhnykova",
+   "years": "1923–2002",
+   "bio": "Ukrainian historian and archaeologist, Candidate of Historical Sciences (from 25.05.1962), senior research fellow at the Institute of Archaeology of the National Academy of Sciences of Ukraine (1923–2002, Kyiv). In 1952–1955, under the direction of O. Lahodovska, she took part in the investigation of the multilayer Mykhailivka settlement in the construction zone of the Kakhovka Hydroelectric Power Plant. She headed the Inhul (Mykolaiv) Construction Expedition and studied the antiquities of the Inhul region and the Yamna culture. Laureate of the State Prize of the Ukrainian SSR in Science and Technology (1977) for the three-volume \"Archaeology of the Ukrainian SSR\" (1971–1975). Author of \"Antiquities of the Inhul Region\" (1977) and \"Archaeological Sites of the Inhul Region\" (1980), and co-author of \"The Yamna Cultural-Historical Area: The Southern Bug Variant\" (1986) and \"New Sites of the Yamna Culture of the Steppe Zone of Ukraine\" (1988).",
+   "fields": [
+    "Inhul region",
+    "Yamna culture",
+    "Bronze Age",
+    "Mykolaiv region"
+   ]
+  },
+  "havrysh-p-ya": {
+   "fullName": "Petro Yakymovych Havrysh",
+   "years": "1956–2018",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (1996), docent at the V. H. Korolenko Poltava National Pedagogical University (7.03.1956, village of Bilsk in the Poltava region – 25.10.2018, Poltava). He graduated from the Faculty of History of Kharkiv University, where he specialized in Early Iron Age archaeology; as a student he took part in the expeditions of B. Shramko. From 1983 he worked at the Poltava Pedagogical Institute. In 1984–1985 he led a team of the Scythian-Slavic Expedition at the Bilsk hillfort; from 1986 he conducted independent research. In 1987–1993 he directed the expedition at the Knyshivka hillfort near Hadiach (more than 5,500 m² of excavated area) and studied the kurgans of the Brovarky burial ground. His Candidate dissertation (1996) was \"The Population of the Scythian Period in the Middle Psel Basin\". In 1997–2007 he excavated the Western and Great Fortifications of the Bilsk hillfort (including Ash Mound No. 7) and the kurgans in the Skorobir tract. Later he wrote popular-science books on archaeology and local history.",
+   "fields": [
+    "Scythian period",
+    "Bilsk hillfort",
+    "Knyshivka hillfort",
+    "Poltava region"
+   ]
+  },
+  "kukharska-o-m": {
+   "fullName": "Olena Mykolaivna Kukharska",
+   "years": "b. 1953",
+   "bio": "Archaeologist and educator, Excellence in Education of Ukraine awardee. After graduating from the M. Gorky Kyiv State Pedagogical Institute (now the M. Drahomanov National Pedagogical University), from 1975 she led the archaeology circle at the Kyiv Palace of Pioneers and Schoolchildren. Since 1992 she has been head of the Office of Historical Local Studies and leader of the archaeology section of the Kyiv Junior Academy of Sciences \"Doslidnyk\", and since 2011 she has headed the archaeology section of the Kyiv Junior Academy of Sciences. She also has research experience at the Institute of Archaeology of the National Academy of Sciences of Ukraine. According to her colleagues, one tenth of Kyiv's archaeologists are her students. Her year of birth is derived from an article for her 70th birthday (January 2023).",
+   "fields": [
+    "Kyiv region",
+    "archaeological education",
+    "local history studies",
+    "Junior Academy of Sciences"
+   ]
+  },
+  "vetshteyn-r-i": {
+   "fullName": "Ryva Ionivna Vetshtein",
+   "years": "1912–1999",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (1953), participant in the Second World War. Born on 25.12.1912 in Brusyliv in the Zhytomyr region, she died on 4.02.1999 in Kyiv. She graduated from Kyiv University (1939) and worked, with interruptions, at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR: in 1946–1968 as a junior research fellow, and has been retired since then. She took part in excavations at Olbia, Tyras and Scythian hillforts on the Lower Dnipro; author of works on the Roman citadel of Olbia, the defensive structures of the Havrylivka hillfort, and an Olbian ceramic kiln.",
+   "fields": [
+    "classical archaeology",
+    "Olbia",
+    "Tyras",
+    "Scythian hillforts"
+   ]
+  },
+  "kvitkovskyy-m-v": {
+   "fullName": "Viktor Ihorovych Kvitkovskyi",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (2019, dissertation \"Building Practices of the Saltovo Forest-Steppe Population in the Siverskyi Donets Basin at the End of the 1st Millennium AD\"), research fellow in the Department of Archaeology of Kyiv of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He graduated from H. Skovoroda Kharkiv Pedagogical University (2006). He studies archaeological sites of the High Middle Ages in Sloboda Ukraine, settlements of the Saltovo-Mayaki culture, as well as Yuriiv — Bila Tserkva of the 11th–18th centuries. In 2009–2019 he led the Sloboda Early Medieval Expedition (Piatnytske, Kytsivka), and in 2023 the Bila Tserkva team of the Architectural and Archaeological Expedition. Note: in the register the author is recorded as \"Kvitkovskyi M. V.\" (Vasylkiv, excavations of 2007); the identification is based on the surname and work in the Kyiv region, while the initials differ.",
+   "fields": [
+    "Saltovo culture",
+    "Sloboda Ukraine",
+    "Bila Tserkva",
+    "medieval construction"
+   ]
+  },
+  "mazarati-s-m": {
+   "fullName": "Svitlana Mykolaivna Mazarati",
+   "years": "1944–2022",
+   "bio": "Ukrainian archaeologist and classical scholar (13.02.1944 – 25.12.2022). In the 1970s–1980s she worked in the Department of Classical Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine and was an excellent organizer of expedition research. Her school was the Olbia Archaeological Expedition; she studied Olbia, Borysthenes and the settlements on Berezan Island, where under her direction a round altar was discovered — this led to the discovery of the Borysthenite temenos dedicated to Aphrodite. Later she worked in the field of Greek-Ukrainian cultural heritage, was a member of the Kyiv Society of Greeks named after Konstantinos Ypsilantis, and one of the initiators of the 1997 restoration of the monument to Prince Konstantinos Ypsilantis in Kyiv. Works: \"The Olbian Terracotta of Kore-Persephone\" (Archaeology, 1978, co-authored); \"Archaeological Research at Shyroka Balka near Olbia\" (1986).",
+   "fields": [
+    "classical archaeology",
+    "Olbia",
+    "Berezan",
+    "Borysthenes"
+   ]
+  },
+  "oblomskyy-a-m": {
+   "fullName": "Andrii Mykhailovych Oblomskyi",
+   "years": "b. 1957",
+   "bio": "Russian archaeologist, Doctor of Historical Sciences (2001). Born on 5 August 1957 in Moscow, a student of I. Rusanova and N. Kravchenko. He graduated from Moscow University (1979); since 1983 he has worked at the Institute of Archaeology of the Russian Academy of Sciences, and since 2002 as head of the Sector of Archaeology of the Migration Period and Early Middle Ages. In 1982–1983 he led the reconnaissance team of the Novhorod-Siversky Expedition, and from 1984 the Early Slavic Expedition, which worked in Ukraine in 1989–1992. He studied sites of the Zarubyntsi, Kyiv and Chernyakhiv cultures of the Dnipro forest-steppe Left Bank of the 1st–5th centuries AD, as well as of the Hunnic period and the early Middle Ages of the Upper Don region. Executive editor of the series \"The Early Slavic World\". Author of \"The Dnieper Forest-Steppe Left Bank in the Late Roman and Hunnic Period\" (2002) and \"Late Zarubyntsi Sites on the Territory of Ukraine\" (2010, co-authored). In the register (entry 1112-1, Chernihiv region, 1982) the initials were mistakenly recorded as \"O. M.\"; corrected to \"A. M.\".",
+   "fields": [
+    "Zarubyntsi culture",
+    "Kyiv culture",
+    "Chernyakhiv culture",
+    "early Slavs"
+   ]
+  },
+  "smyrnov-o-i": {
+   "fullName": "Oleksandr Ihorovych Smyrnov",
+   "years": "b. 1981",
+   "bio": "Ukrainian archaeologist, senior lecturer in the Department of History of V. O. Sukhomlynskyi Mykolaiv National University, head of the archaeological expedition on Berezan Island. Born on 18 May 1981 in Mykolaiv, he graduated from the Faculty of History of the Mykolaiv Pedagogical Institute (2003). After his studies he worked as a laboratory assistant at the Institute of Archaeology of the National Academy of Sciences of Ukraine, and since 2004 at Mykolaiv University. He has taken part in more than 40 expeditions in the North-Western Black Sea region, advancing from trainee to expedition head; author of more than 100 articles on the archaeology of southern Ukraine in the ancient and medieval periods. Since 2010 he has headed the Mykolaiv branch of the Union of Archaeologists of Ukraine; from 2014 he served in the Armed Forces of Ukraine.",
+   "fields": [
+    "classical archaeology",
+    "Berezan",
+    "North-Western Black Sea region",
+    "Mykolaiv region"
+   ]
+  },
+  "bessonova-s-s": {
+   "fullName": "Svitlana Serhiivna Bessonova",
+   "bio": "Scythologist and researcher of Scythian religious beliefs, a student of O. I. Terenozhkin. The Institute of Archaeology published an obituary in memory of the scholar.",
+   "fields": [
+    "Scythians",
+    "Scythian religion"
+   ]
+  },
+  "zaliznyak-l-l": {
+   "fullName": "Leonid Lvovych Zaliznyak",
+   "years": "b. 1951",
+   "bio": "Researcher of the Stone Age, in particular the Mesolithic and Palaeolithic of Polissia and southern Ukraine.",
+   "fields": [
+    "Stone Age",
+    "Polissia"
+   ]
+  },
+  "zotsenko-v-m": {
+   "fullName": "Volodymyr Mykolaiovych Zotsenko",
+   "years": "1953–2009",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, Associate Professor (2 March 1953, Nizhyn – 4 December 2009, Kyiv). He studied at the Nizhyn Pedagogical Institute (from 1970); as a student he took part in excavations of the Old Kyiv part of the city and of Podil, where Kyiv's log-framed structures were first discovered. From 1975 he was a postgraduate student and later a research associate in the Department of Kyiv Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine; he taught at the Kyiv-Mohyla Academy and at the Theological Academy of the UOC-KP. His Candidate dissertation (1984) was on the historical and economic ties between Kyiv and the south-eastern Baltic in the 9th – early 13th centuries. From 1979 he directed excavations at Vyshhorod: he was the first to obtain a complete stratigraphic column of the centre of the hillfort and investigated centres of metallurgical production. A leading researcher of the ties between Kyivan Rus and the countries of Northern Europe, he authored over 150 works, including chapters of the 'Ancient History of Ukraine'.",
+   "fields": [
+    "Kyivan Rus",
+    "archaeology of Kyiv",
+    "Vyshhorod",
+    "ties with Northern Europe",
+    "wooden construction"
+   ]
+  },
+  "darahan-m-n": {
+   "fullName": "Maryna Mykolaivna Darahan",
+   "bio": "Candidate of Historical Sciences, Senior Research Associate in the Department of Early Iron Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. She studies the Bronze and Early Iron Ages and the Scythians, applies geophysics and GIS, and studies textile and leather items from Scythian burials.",
+   "fields": [
+    "Scythians",
+    "Early Iron Age",
+    "archaeological geophysics",
+    "GIS"
+   ]
+  },
+  "chernenko-ye-v": {
+   "fullName": "Yevhen Vasylovych Chernenko",
+   "years": "1934–2007",
+   "bio": "Soviet and Ukrainian archaeologist and Scythologist, Doctor of Historical Sciences (1989), Professor (1992). He graduated from Kyiv University and worked at the Institute of Archaeology; one of the discoverers of the golden Scythian pectoral from the Tovsta Mohyla kurgan. Born in the village of Budo-Vorobiï in the Zhytomyr region; Doctor of Historical Sciences, corresponding member of the German Archaeological Institute. A specialist in Scythian military affairs, he led more than 10 construction-zone expeditions; together with B. Mozolevskyi he investigated the Tovsta Mohyla kurgan.",
+   "fields": [
+    "Scythians",
+    "Early Iron Age",
+    "Scythian kurgans"
+   ]
+  },
+  "ivakin-h-yu": {
+   "fullName": "Hlib Yuriiovych Ivakin",
+   "years": "1947–2018",
+   "bio": "Kyiv archaeologist, specialist in the archaeology of Rus and of late medieval Ukraine, Doctor of Historical Sciences, corresponding member of the National Academy of Sciences of Ukraine. From 1974 he worked at the Institute of Archaeology and served as deputy director. He took part in excavations of 10th–18th-century Kyiv in Podil, Pechersk and Old Kyiv, and directed architectural and archaeological studies of St Michael's Golden-Domed Cathedral, the Dormition Cathedral of the Lavra and the Pyrohoshcha Church. Born and died in Kyiv; son of Yurii and grandson of Oleksii Ivakin, corresponding member of the NASU (2009), deputy director of the Institute of Archaeology from 2003. He studied ancient and medieval Kyiv (Podil, Pechersk, the Upper Town) and led archaeological work during the reconstruction of St Michael's Golden-Domed Monastery, the Dormition Cathedral of the Lavra, the Pyrohoshcha Church and the Church of the Tithes.",
+   "fields": [
+    "archaeology of Kyiv",
+    "Kyivan Rus",
+    "late Middle Ages",
+    "architectural archaeology"
+   ]
+  },
+  "hanina-o-d": {
+   "fullName": "Oksana Davydivna Hanina",
+   "years": "1913–1993",
+   "bio": "Ukrainian archaeologist (born 4 February 1913 in the village of Orlianske in the Zaporizhzhia region, died 1993 in Kyiv). She worked at Dniprobud, trained as a locksmith, and in 1944 graduated from the Khabarovsk Pedagogical Institute. From 1950 she was a research associate of the State Historical Museum of the Ukrainian SSR; in 1963 she headed the special department 'Golden Pantry', from which the Museum of Historical Treasures of the Ukrainian SSR emerged, and was its first head (until 1984). She studied Scythian, Sarmatian and ancient (Greco-Roman) sites; she took part in expeditions (Novopylypivka 1951, Subotiv 1956, Kremenchuk 1967) and directed museum expeditions in the Ternopil region near the villages of Ivane-Pusте (1958–1969) and Zalissia (1970). Author of about 30 works, including 'The Museum of Historical Treasures of the Ukrainian SSR' (1974) and 'Ancient Bronzes from Pishchane' (1970).",
+   "fields": [
+    "Scythian period",
+    "Ivane-Pusте",
+    "Zalissia",
+    "museum work"
+   ]
+  },
+  "shmahliy-m-m": {
+   "fullName": "Mykola Mykhailovych Shmahlii",
+   "years": "1931–1994",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, researcher of the Trypillia culture (26 July 1931, village of Fastivtsi in the Chernihiv region – 21 December 1994, Kyiv). In 1953 he graduated from Kyiv University; in 1954–1957 he was a postgraduate student at the Institute of Archaeology, where he worked until 1991 (head of the Department of Construction-Zone Expeditions 1974–1977, then senior research associate). In 1962 he defended a dissertation on the Horodsk-Volhynian variant of the Trypillia culture. In 1991–1994 he headed the Laboratory of Rescue Archaeological Research at the Ministry of Culture. He almost completely excavated the Troianiv settlement in Volhynia (a group of sites is named after it), was deputy head of S. Bibikov's expedition at the Hrebeni settlement, in 1963–1973 headed the Danube-Dniester construction-zone expedition (the Suvorovo kurgan with the horse-head sceptre), from 1971 to 1991 investigated the giant Trypillian settlement of Maidanetske, and directed the Dniester expedition (Konovka, Studenytsia). Author of over 100 works, including 'Large Trypillian Settlements and the Problem of Early Forms of Urbanization' (2001).",
+   "fields": [
+    "Trypillia",
+    "proto-cities",
+    "Maidanetske",
+    "Horodsk-Volhynian group",
+    "Danube-Dniester kurgans"
+   ]
+  },
+  "makhortykh-s-v": {
+   "fullName": "Serhii Volodymyrovych Makhortykh",
+   "years": "b. 1958",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences (2008), leading research associate of the Institute of Archaeology of the National Academy of Sciences of Ukraine (working there since 1987). He studies the Cimmerians and Scythians of Ukraine and the Caucasus, and the formation of early nomadic associations. He headed the Bilsk Archaeological Expedition (2005–2006, 2015), investigating the Bilsk hillfort in the Poltava region.",
+   "fields": [
+    "Cimmerians",
+    "Scythians",
+    "Early Iron Age",
+    "Bilsk hillfort",
+    "Caucasus"
+   ]
+  },
+  "rassamakin-yu-ya": {
+   "fullName": "Yurii Yakovych Rassamakin",
+   "bio": "Ukrainian archaeologist, specialist in the Eneolithic and Early Bronze Age of the Northern Black Sea region, a staff member of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studies the cultural and chronological development of these periods in the context of the Carpathian-Balkan region and the North Caucasus, and the emergence of the kurgan tradition; he received grants from the Humboldt Foundation, the National Geographic Society (USA) and the Fulbright Program.",
+   "fields": [
+    "Eneolithic",
+    "Early Bronze Age",
+    "Northern Black Sea region",
+    "kurgan tradition"
+   ]
+  },
+  "honcharov-v-m": {
+   "fullName": "Volodymyr Kyrylovych Honcharov",
+   "years": "1909–1987",
+   "bio": "Ukrainian archaeologist and Slavicist (15 July 1909, Zamostia – 26 August 1987, Kyiv). He graduated from the Berdychiv Cooperative Technical School (1929), worked as head of the archaeology department of the Berdychiv Local History Museum (1929–1934), and from 1934 was a senior research associate in the Department of Slavic Archaeology and the Archaeological Museum of the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR. He studied Old Rus cities and hillforts and identified the Slavic Luka-Raikovetska culture of the 7th–9th centuries. He took part in the Korosten (Iskorosten, 1939), Raikovtsi (1946–1948), Horodsk (1947), Kolodiazhyn (1948–1953), Plisnesk, Halych, Kyiv (1955) and Voin (1956–1957) expeditions and in the Kaniv expedition that excavated the Old Rus hillfort of Ivan-Hora (1960–1967). Author of the works 'Raikovetske Hillfort' (1950), 'Ancient Halych' (1956), 'Luka-Raikovetskaya' (1963) and 'The Old Rus City of Voin' (1966, co-author). Note: in the register the author is listed as 'Honcharov V. M.'; the identification is based on the coincidence of the places of work (Ivan-Hora, Rzhyshchiv), and the initial was probably recorded by mistake.",
+   "fields": [
+    "Old Rus archaeology",
+    "Luka-Raikovetska culture",
+    "hillforts",
+    "Ivan-Hora"
+   ]
+  },
+  "rusyayeva-a-s": {
+   "fullName": "Anna Stanislavivna Rusiaieva",
+   "years": "b. 1937",
+   "bio": "Ukrainian archaeologist and historian, Doctor of Historical Sciences (1990). Born on 1 February 1937 in the village of Buda-Holubiievychi in the Zhytomyr region. She graduated from Kyiv University (1962) and worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine until 2010, and from 1986 was a leading research associate. A leading researcher of the ancient antiquities of the Northern Black Sea region: she conducted the first excavations of the Beikush sanctuary of Achilles, discovered the earliest semi-subterranean dwellings of colonial Olbia, and fully uncovered the earliest Western Olbian temenos of Apollo Ietros. Laureate of the State Prize of Ukraine in Science and Technology (2002) and of the M. Kostomarov Prize of the NASU (1995). Works: 'Religion and Cults of Ancient Olbia' (1992), 'Olbia Pontica' (2004), 'The Religion of the Pontic Greeks in Antiquity' (2005).",
+   "fields": [
+    "classical archaeology",
+    "Olbia",
+    "Beikush",
+    "religion and cults"
+   ]
+  },
+  "haskevych-d-a": {
+   "fullName": "Dmytro Leonidovych Haskevych",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (2003, dissertation 'Flint Inventory of the Neolithic Cultures of Ukraine'), senior research associate of the Department of Stone Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studied at the Kyiv Institute of Culture (museum studies, 1997) and as a postgraduate at the Institute (1997–2001). He studies the Neolithization of the territory of Ukraine and the Bug-Dniester Neolithic culture: the chronology of the Southern Buh and Dniester regions, pottery, flint production, and the spread of agriculture. He directed excavations at the settlements of Pechera I (2008) and Tsekynivka I (2010) and surveys in the Vinnytsia region, in the Southern Buh valley (including in 2009). He took part in international projects with the University of Rzeszów and in an ERC project studying Neolithic pottery; author of a catalogue of Linear Pottery culture sites in Ukraine (2024).",
+   "fields": [
+    "Neolithic",
+    "Bug-Dniester culture",
+    "Southern Buh region",
+    "Vinnytsia region"
+   ]
+  },
+  "klochko-v-i": {
+   "fullName": "Viktor Ivanovych Klochko",
+   "years": "b. 1948",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences (2004). Born on 23 September 1948 in the town of Tyri (Estonia). He graduated from Kyiv University (1980). From 1974 (with a break) he has worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine, and from 2008 as a leading research associate; in 2001–2008 he was deputy director for research of the Research Institute of Heritage Protection Studies; professor at the University of Gdańsk (Poland). He studies the weaponry and military affairs of the ancient population of Ukraine, and the Eneolithic and Bronze Age. Corresponding member of the German Archaeological Institute (1994). Author of the monograph 'Weaponry and Warfare of the Ancient Population of Ukraine (5000–900 BC)' (2006).",
+   "fields": [
+    "weaponry and warfare",
+    "Eneolithic and Bronze Age",
+    "Yamna culture"
+   ]
+  },
+  "maksymov-ye-v": {
+   "fullName": "Yevhen Volodymyrovych Maksymov",
+   "years": "1921–2008",
+   "bio": "Eminent Ukrainian archaeologist, Doctor of Historical Sciences (1983), laureate of the State Prize of Ukraine in Science and Technology (1991). Born on 28 January 1921 in Kyiv, he died there on 2 August 2008. He graduated from Kyiv University (1949) and from then on worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine (1986–1998 as a leading research associate). He studied the history of the population of Ukraine from the Early Iron Age (7th century BC) to the 3rd century AD; he took part in excavations of Olbia, Tyras and Scythian kurgans, and led excavations of type sites of the Zarubintsy culture in the Middle Dnieper region and of settlements of the Kyiv culture. On the basis of an analysis of ancient imports he established the time of the emergence of the Zarubintsy culture (late 3rd century BC) and developed a typology of Zarubintsy pottery. Author of the monograph 'The Zarubintsy Culture on the Territory of the Ukrainian SSR' (1982) and of works on Trakhtemyriv.",
+   "fields": [
+    "Zarubintsy culture",
+    "Early Iron Age",
+    "Middle Dnieper region",
+    "Trakhtemyriv"
+   ]
+  },
+  "ovchynnykov-e-v": {
+   "fullName": "Eduard Viktorovych Ovchynnykov",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (2008, dissertation 'The Trypillian Population of the Lower Ros Region. Stages B II – C I'), senior research associate of the Department of Eneolithic and Bronze Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studied at the Saratov Pedagogical Institute (1985–1992). He studies the Cucuteni-Trypillia cultural complex, in particular its middle and late stages, house building, pottery and the spiritual culture of the Trypillians. Since 2016 he has worked in the Trypillia Expedition of the NASU; in 2010–2012 he headed the Medzhybizh Trypillia Expedition; he directed excavations of the settlements of Vladyslavchyk, Chaplynka, Vilshana I, Zelena Dibrova and Pekari II, and took part in investigations of the giant settlements of Talianky and Nebelivka. Author of the monograph 'The Trypillia Culture of the Kaniv Dnieper Region (Stages B II – C I)' (2014). In the register (entry 1342-1, Cherkasy region, 2008) the initials were recorded as 'Ye. V.'; corrected to 'E. V.'.",
+   "fields": [
+    "Trypillia culture",
+    "Eneolithic",
+    "Lower Ros region",
+    "Kaniv Dnieper region"
+   ]
+  },
+  "son-n-o": {
+   "fullName": "N. O. Son",
+   "bio": "Biographical data have not been provided and will not be provided."
+  },
+  "boltryk-yu-v": {
+   "fullName": "Yurii Viktorovych Boltryk",
+   "years": "b. 1949",
+   "bio": "Scythologist, researcher of elite and giant kurgans: Oguz, Tashenak, Vyshneva Mohyla. Since 2010 he has headed the Field Committee of the Institute of Archaeology.",
+   "fields": [
+    "Scythian kurgans",
+    "Field Committee"
+   ]
+  },
+  "telehin-d-ya": {
+   "fullName": "Dmytro Yakovych Telehin",
+   "years": "1919–2011",
+   "bio": "Researcher of the Stone Age and the Dnieper-Donets culture. Born in the village of Plysove in the Kharkiv region; graduated from Chernivtsi University (1949). From 1952 he worked at the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR (1968–87 head of the Department of Primeval Archaeology), in 1991 founded the Cossack Times centre, and in 1994–2010 worked at the Kyiv-Pechersk Reserve.",
+   "fields": [
+    "Neolithic",
+    "Dnieper-Donets culture"
+   ]
+  },
+  "skoryy-s-a": {
+   "fullName": "Serhii Anatoliiovych Skoryi",
+   "years": "b. 1949",
+   "bio": "Doctor of Historical Sciences, professor, head of the Department of Early Iron Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studies the Cimmerians and Scythians and the ethnocultural history of the population of the Eastern European forest-steppe; he led expeditions in the Middle Dnieper region and the Kirovohrad region and excavated Scythian kurgans.",
+   "fields": [
+    "Scythians",
+    "Cimmerians",
+    "forest-steppe",
+    "kurgans"
+   ]
+  },
+  "smilenko-a-t": {
+   "fullName": "Alla Trokhymivna Smilenko",
+   "years": "1923–2006",
+   "bio": "Ukrainian archaeologist, specialist in Slavic archaeology, Doctor of Historical Sciences, leading research fellow of the Institute of Archaeology. She studied Chernyakhov and early Slavic sites of the Steppe Dnieper region and the Northern Black Sea coast; laureate of the State Prize of Ukraine in Science and Technology (1991). She supervised several dissertations, including that of A. O. Kozlovskyi. Born and died in Kyiv; Slavic archaeologist, Doctor of Historical Sciences (1981), worked at the Institute of Archaeology. She studied the Chernyakhov culture settlements of Leski and Mykilske, the Bashmachka hillfort, the Alan pottery-making centre of Kantsyrka, and the medieval settlements of Nahorne, Bahate and Shabo.",
+   "fields": [
+    "Slavic archaeology",
+    "Chernyakhov culture",
+    "Northern Black Sea coast"
+   ]
+  },
+  "motsya-o-p": {
+   "fullName": "Oleksandr Petrovych Motsia",
+   "years": "1950–2025",
+   "bio": "Ukrainian medievalist archaeologist, Doctor of Historical Sciences (1991), professor, corresponding member of the National Academy of Sciences of Ukraine (2003). Graduated from Kyiv University; from 1979 he worked at the Institute of Archaeology, and from 1997 was head of the Department of Old Rus and Medieval Archaeology. Author of more than 270 works, including on the population of the Middle Dnieper region of the 9th–13th centuries and the burial sites of the Desna and Vorskla; laureate of the State Prize (2002). Born in the village of Litky in the Brovary district; Doctor of Historical Sciences, corresponding member of the NASU (2003), head of the Department of Old Rus and Medieval Archaeology of the Institute of Archaeology since 1996. He studied Old Rus burial sites, trade routes, rural settlements and the material culture of towns.",
+   "fields": [
+    "Kyivan Rus",
+    "Old Rus necropolises",
+    "medieval archaeology"
+   ]
+  },
+  "kovpanenko-h-t": {
+   "fullName": "Halyna Tykhonivna Kovpanenko",
+   "years": "1923–2013",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, senior research fellow of the Institute of Archaeology, researcher of Scythian-period sites. In 1967 she published the first comprehensive monograph, \"Tribes of the Scythian Period on the Vorskla\". She did much to study the early Scythian Trakhtemyriv hillfort, and in 1974 discovered the burial of a Sarmatian priestess in the Sokolova Mohyla kurgan. Born in Nikopol; wife of the artist H. Kovpanenko, Candidate of Historical Sciences, she worked at the Institute of Archaeology from 1948. She studied Scythian antiquities of the Right-Bank forest-steppe, headed the South Buh and Right-Bank Forest-Steppe expeditions, and directed the excavations of the Trakhtemyriv hillfort (1965–68).",
+   "fields": [
+    "Scythian period",
+    "Trakhtemyriv hillfort",
+    "Vorskla",
+    "Sokolova Mohyla"
+   ]
+  },
+  "yevdokymov-h-l": {
+   "fullName": "Hennadii Leonidovych Yevdokymov",
+   "years": "1947–2001",
+   "bio": "Archaeologist, researcher of the Bronze Age – Early Iron Age (8.09.1947, Riga – 1.04.2001, Kyiv). In 1972 he graduated from the Faculty of History of Kyiv University; from 1968 he worked at the Institute of Archaeology (laboratory assistant, research fellow). He took part in construction-related expeditions (Kerch, Kakhovka, Kherson, Middle Dnieper, South Buh) and in the excavation of Scythian kurgans: Mordvynivskyi, Haimanova Mohyla, Tovsta Mohyla. From 1977 he headed the Krasnoznamianka expedition: Eneolithic kurgans, Scythian burials with battle armour, sanctuary kurgans of the Cuman period, the largest cemetery of the Bilozerka culture near the village of Brylivka in the Kherson region. He substantiated the identification of an early Catacomb type of sites in the Lower Dnieper region and proposed a three-stage periodization of Catacomb burials of the Northern Black Sea region. Author of more than 50 works. His personal archive is held in the Scientific Archive of the Institute of Archaeology of the National Academy of Sciences of Ukraine.",
+   "fields": [
+    "Bronze Age",
+    "Catacomb culture",
+    "Bilozerka culture",
+    "Scythian period",
+    "Kherson region kurgans"
+   ]
+  },
+  "kryzhytskyy-s-d": {
+   "fullName": "Serhii Dmytrovych Kryzhytskyi",
+   "years": "1932–2018",
+   "bio": "Distinguished archaeologist, Doctor of Architecture (1980), corresponding member of the National Academy of Sciences of Ukraine (1990), laureate of State Prizes. He studied ancient Olbia; in 1972–1994 he headed the Olbia Expedition of the Institute of Archaeology and was head of the Department of Classical Archaeology. Born and died in Kyiv; architect and archaeologist, husband of N. Leipunska, Doctor of Architecture (1981), corresponding member of the National Academy of Sciences of Ukraine. At the Institute of Archaeology from 1964 (head of the Department of Classical Archaeology), he headed the Olbia Expedition in 1972–95; he studied the architecture of the ancient states of the Northern Black Sea coast, in particular Olbia and Tyras.",
+   "fields": [
+    "Olbia",
+    "classical archaeology",
+    "ancient cities of the Northern Black Sea coast"
+   ]
+  },
+  "artemenko-i-i": {
+   "fullName": "Ivan Ivanovych Artemenko",
+   "years": "1924–1989",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences (1977), corresponding member of the Academy of Sciences of the Ukrainian SSR (1982), laureate of the State Prize of the Ukrainian SSR (1980). Director of the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR in 1973–1986. Researcher of the Bronze Age of the Upper and Middle Dnieper region, in particular the Middle Dnieper culture; author of the monograph \"Tribes of the Upper and Middle Dnieper Region in the Bronze Age\" (1967). Died in Kyiv.",
+   "fields": [
+    "Bronze Age",
+    "Middle Dnieper culture",
+    "Upper and Middle Dnieper region",
+    "Neolithic"
+   ]
+  },
+  "bidzilya-v-i": {
+   "fullName": "Vasyl Ivanovych Bidzilia",
+   "years": "1936–1999",
+   "bio": "Ukrainian archaeologist from Transcarpathia, graduate of Kyiv University, staff member of the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR. His best-known research is the 1969 excavation of the Scythian kurgan Haimanova Mohyla in the Zaporizhzhia region, where he headed the Zaporizhzhia Expedition. In 1989–1997 he headed the construction-related unit, the cooperative \"Archaeologist\". Author of a monograph on the culture of Transcarpathia at the turn of the Common Era (1971). Born in the village of Sasovo in Transcarpathia; brother of M. Bidzilia, Candidate of Historical Sciences. In 1960, near Haivoron, he was the first in Europe to study a Slavic centre of ferrous metallurgy of the 6th–7th centuries; he led the Zaporizhzhia Expedition (1969–74), which excavated the Scythian kurgan Haimanova Mohyla, and in 1975–89 headed the Laboratory of Natural-Science Methods in Archaeology.",
+   "fields": [
+    "Scythians",
+    "Haimanova Mohyla",
+    "Transcarpathia",
+    "Zaporizhzhia Expedition"
+   ]
+  },
+  "hoshkevych-v-ya": {
+   "fullName": "Viktor Ivanovych Hoshkevych",
+   "years": "1860–1928",
+   "bio": "Ukrainian archaeologist and public figure (21.03.1860, Kyiv – 2.03.1928, Kherson), Hero of Labour (1922). He studied at the Kyiv Theological Seminary and at St. Volodymyr University, and studied archaeology under V. Antonovych. In 1889 he discovered the remains of the castle of Prince Symeon Olelkovych and localized the chronicle Horodets. In 1890–1905 he was secretary of the Kherson Governorate Statistical Committee, in 1898–1911 secretary of the governorate scholarly archival commission, and publisher and editor of the newspaper \"Yug\". In 1890–1914 he conducted excavations in the Kherson and Taurida governorates: he identified and studied 50 ancient hillforts, in 1913 studied the Kamianska Sich, and excavated the Tsarova Mohyla near Kryvyi Rih. In 1890 he founded the Museum of Antiquities of the Kherson Region (now the Kherson Regional Museum of Local Lore) and headed it until 1925. Author of \"Hoards and Antiquities of the Kherson Governorate\" (1903) and \"Ancient Hillforts along the Banks of the Lower Dnieper\" (1913). Note: in the register the author is listed as \"Hoshkevych V. Ya.\"; the identification is based on the coincidence of the places of work (Kherson region), and the initial was probably recorded in error.",
+   "fields": [
+    "Kherson region",
+    "hillforts",
+    "museum work",
+    "Kamianska Sich"
+   ]
+  },
+  "tytova-o-m": {
+   "fullName": "Olena Mykolaivna Tytova",
+   "years": "b. 1952",
+   "bio": "Ukrainian archaeologist, museologist and heritage specialist, Candidate of Historical Sciences (1985), Honoured Worker of Culture of Ukraine (2003). Born on 18.07.1952 in Kyiv; graduated from the Faculty of History of Kyiv University. She began in expeditions at Olbia, Bilohorodka and the Kyiv Podil, and from 1975 took part in the study of Kamiana Mohyla. Postgraduate student of D. Ya. Telehin (1980); her 1985 dissertation was devoted to the Neolithic of the Middle Dnieper region. She directed excavations and surveys of Neolithic sites in the Chernihiv, Sumy and Cherkasy regions. Since 1990 she has worked in heritage protection (Ukrainian Society for the Protection of Historical and Cultural Monuments), taught at KNUKiM, and is now director of the Centre for Heritage Studies of the NAS of Ukraine and the UTOPIK, scientific secretary of the UTOPIK and the Ukrainian Committee of ICOMOS, and editor-in-chief of the \"Proceedings of the Centre for Heritage Studies\". Author of works on the museumification of archaeological sites and \"archaeoparks\".",
+   "fields": [
+    "Neolithic",
+    "heritage studies",
+    "museology",
+    "cultural heritage protection"
+   ]
+  },
+  "hershkovych-ya-p": {
+   "fullName": "Yakiv Petrovych Hershkovych",
+   "years": "1953–2022",
+   "bio": "Ukrainian archaeologist, Doctor of Historical Sciences (2017, dissertation \"The Subotiv Hillfort\"), senior research fellow of the Department of Eneolithic–Bronze Age Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine; chairman of the Union of Archaeologists of Ukraine. Born 21.08.1953, died 8.09.2022. Graduated from the Faculty of History of Tashkent University (1977). He defended his candidate dissertation in 1993 (\"The Sabatynivka Culture of the Lower Dnieper Region and the North-Western Azov Region\"). He headed the Donetsk Archaeological Expedition (1989–1993), the Irei expedition (2011–2015), and the Netishyn expedition. He studied the Bronze Age and the transition to the Early Iron Age, the metalworking centres of the Northern Black Sea region, as well as problems of the history of science and professional ethics of archaeologists. Recipient of DAAD and Fulbright fellowships, he lectured at universities in Germany and the USA.",
+   "fields": [
+    "Bronze Age",
+    "Sabatynivka culture",
+    "Subotiv",
+    "Donetsk region",
+    "archaeological ethics"
+   ]
+  },
+  "kozak-d-n": {
+   "fullName": "Denys (Deonizii) Nykodymovych Kozak",
+   "years": "1944–2014",
+   "bio": "Distinguished Ukrainian archaeologist, Doctor of Historical Sciences, professor. Born on 2 April 1944 in the village of Krechowice (now Poland); in 1945 the family was resettled to the Ukrainian SSR. Graduated from Lviv University (1972), a student of V. D. Baran. From 1974 he worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine: from 1987 as scientific secretary, from 1991 as deputy director for research, and from 2002 as head of the Department of Early Slavic Archaeology. He studied Volhynia in the 1st millennium CE, Slavic ethnogenesis and cultural genesis, the Przeworsk culture, and the contacts of the early Slavs with Germanic, Dacian and Sarmatian tribes. Laureate of the State Prize of Ukraine in Science and Technology (1991, 2002). Author of \"The Przeworsk Culture in the Upper Dnieper Region and the Western Buh Region\" (1984), \"Ethnocultural History of Volhynia\" (1991), and \"Ancient Farmers of Volhynia\" (2004). Died on 23 October 2014 in Kyiv.",
+   "fields": [
+    "Slavic ethnogenesis",
+    "Volhynia",
+    "Przeworsk culture",
+    "early Slavic archaeology"
+   ]
+  },
+  "murzin-v-yu": {
+   "fullName": "Viacheslav Yuriiovych Murzin",
+   "years": "1951–2019",
+   "bio": "Distinguished Ukrainian archaeologist and Scythologist, Doctor of Historical Sciences (1992), laureate of the State Prize of Ukraine in Science and Technology (2003). Born on 4 September 1951 in Melitopol, died on 30 December 2019 in Zaporizhzhia. Graduated from Kharkiv University (1973). From 1976 he worked at the Institute of Archaeology of the National Academy of Sciences of Ukraine: in 1993–2002 head of the Department of Scythian-Sarmatian Archaeology; later he taught in Zaporizhzhia and Berdiansk (from 2012 head of a department at Berdiansk Pedagogical University). He studied Scythian archaic sites of the steppe Northern Black Sea region and the problem of the origin of the Scythians. In 1981–1986 and 1992–2002 he headed the Ukrainian-German archaeological expedition that excavated the Scythian royal kurgan Chortomlyk. Author of \"Scythian Archaic Period of the Northern Black Sea Region\" (1984), \"The Origin of the Scythians\" (1990, co-authored), and \"Chertomlyk\" (1991, co-authored).",
+   "fields": [
+    "Scythian archaeology",
+    "Chortomlyk",
+    "origin of the Scythians",
+    "Northern Black Sea region"
+   ]
+  },
+  "reyda-r-m": {
+   "fullName": "Roman Mykolaiovych Reida",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences, senior research fellow and scientific secretary of the Department of Early Slavic Archaeology of the Institute of Archaeology of the National Academy of Sciences of Ukraine. He studies the Late Roman period, the Chernyakhov culture of the Dnieper left-bank forest-steppe (settlements, burial rite, pottery), the \"Gothic\" wars and the ancient centres of the Northern Black Sea region, as well as underwater archaeology. Since 2012 he has led the expedition at the Chernyakhov cemetery near Shyshaky (Poltava region) and led the study of the settlement Serdiuky-1; in 2009–2010 he headed the underwater expedition in the waters of the Tauric Chersonesos National Reserve. He took part in the Black Sea International Underwater Expedition (Berezan, the Kinburn and Tendra spits), the Dnieper-Psel Early Slavic and Komarivka expeditions, and in studies of the Pereshchepyne necropolis and the Bilsk hillfort.",
+   "fields": [
+    "Chernyakhov culture",
+    "Late Roman period",
+    "underwater archaeology",
+    "Dnieper left-bank region"
+   ]
+  },
+  "cherednychenko-m-m": {
+   "fullName": "Mykola Mykolaiovych Cherednychenko",
+   "years": "1939–1993",
+   "bio": "Ukrainian archaeologist, Candidate of Historical Sciences (1973), research fellow of the Institute of Archaeology of the Academy of Sciences of the Ukrainian SSR. Born on 6 August 1939 in the Kuban; in 1966 graduated from the Faculty of History of Rostov University, later studied as a postgraduate at the Institute of Archaeology (supervisor — O. I. Terenozhkin); dissertation — \"History of the Srubna Tribes of the Don Region\". From 1970 he worked in the Department of Early Iron Age Archaeology and headed the Voroshylovhrad, Vyshchetarasivka and Poltava construction-related expeditions. In 1977–1978 he excavated the Berdiansky kurgan, an outstanding site of the Scythian period with a unique burial complex and Scythian gold. Bronze Age specialist: he refined the chronology of Late Bronze Age sites, developed the topography and classification of Srubna culture settlements on the Don and the Siverskyi Donets, and studied the history of wheeled transport; co-author of the collective monograph \"Cultures of the Bronze Age on the Territory of Ukraine\" (1986). He worked in the Eneolithic-Bronze sector (1979–1992). Author of about 50 scholarly works. Died on 6 January 1993.",
+   "fields": [
+    "Scythian period",
+    "Berdiansky kurgan",
+    "Srubna culture",
+    "Bronze Age"
+   ]
+  }
+ }
+}

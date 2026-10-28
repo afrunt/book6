@@ -5,9 +5,9 @@ import { periodLabel } from './discovery';
 export interface Filters { q: string; period: string; region: string; type: string; author: string }
 export const emptyFilters: Filters = { q: '', period: '', region: '', type: '', author: '' };
 
-export function buildIndex(data: Data): MiniSearch<RecordItem & { periodText: string; authorText: string }> {
-  const ms = new MiniSearch<RecordItem & { periodText: string; authorText: string }>({
-    fields: ['site', 'datingText', 'periodText', 'authorText', 'expedition', 'notes', 'siteTypeText', 'regionText', 'districtText'],
+export function buildIndex(data: Data, latin: (r: RecordItem) => string = () => ''): MiniSearch<RecordItem & { periodText: string; authorText: string; latinText: string }> {
+  const ms = new MiniSearch<RecordItem & { periodText: string; authorText: string; latinText: string }>({
+    fields: ['site', 'datingText', 'periodText', 'authorText', 'expedition', 'notes', 'siteTypeText', 'regionText', 'districtText', 'latinText'],
     idField: 'id',
     extractField: (doc, field) => {
       if (field === 'regionText') return doc.regions.join(' ');
@@ -16,7 +16,7 @@ export function buildIndex(data: Data): MiniSearch<RecordItem & { periodText: st
     },
     searchOptions: { prefix: true, fuzzy: 0.15, boost: { site: 3, authorText: 2 } },
   });
-  ms.addAll(data.records.map((r) => ({ ...r, periodText: r.periods.map((p) => periodLabel(data, p)).join(' '), authorText: r.authors.join(' ') })));
+  ms.addAll(data.records.map((r) => ({ ...r, periodText: r.periods.map((p) => periodLabel(data, p)).join(' '), authorText: r.authors.join(' '), latinText: latin(r) })));
   return ms;
 }
 
