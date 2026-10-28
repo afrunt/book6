@@ -49,7 +49,6 @@ export function makeViews(data: Data) {
     return html`<section class="enrich" aria-label="${T.reference}">
       ${card.dating ? html`<p><strong>${T.dating}:</strong> ${card.dating}</p>` : ''}
       ${card.summary || card.bio ? html`<p>${card.summary ?? card.bio}</p>` : ''}
-      ${card.facts?.length ? html`<h3>${T.didYouKnow}</h3><ul class="facts">${card.facts.map((f) => html`<li>${f.text}</li>`)}</ul>` : ''}
       ${card.artifacts?.length ? html`<p><strong>${T.typicalFinds}:</strong> ${card.artifacts.join(' · ')}</p>` : ''}
       ${sourceList(card)}</section>`;
   }
