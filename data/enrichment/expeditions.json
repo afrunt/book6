@@ -1,0 +1,13 @@
+{
+  "_comment": "Expedition context. Register-based; only broadly verifiable statements. Others get auto profiles.",
+  "items": {
+    "trypilska-arkheolohichna-ekspedytsiya": {
+      "summary": "Найбільша за кількістю записів експедиція реєстру: матеріали трипільських поселень Правобережжя, зокрема Тальянок.",
+      "sources": ["wp-trypillia", "wp-talianky"], "confidence": "medium"
+    },
+    "krymska-paleolitychna-arkheolohichna-ekspedytsiya": {
+      "summary": "Дослідження мустьєрських і пізньопалеолітичних стоянок Криму — печер і гротів гірського Криму.",
+      "sources": ["wp-mustye", "wp-kolosov"], "confidence": "medium"
+    }
+  }
+}

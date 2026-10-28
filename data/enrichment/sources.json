@@ -1,0 +1,775 @@
+{
+ "_comment": "Registry of external sources used by enrichment. license is the licence of the cited material; facts are paraphrased, not copied.",
+ "sources": {
+  "wp-paleolit": {
+   "title": "Палеоліт — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Палеоліт",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-mustye": {
+   "title": "Мустьєрська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Мустьєрська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-verhniy-paleolit": {
+   "title": "Верхній палеоліт — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Верхній_палеоліт",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-mezolit": {
+   "title": "Мезоліт — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Мезоліт",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-neolit": {
+   "title": "Неоліт — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Неоліт",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-eneolit": {
+   "title": "Енеоліт — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Енеоліт",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-trypillia": {
+   "title": "Трипільська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Трипільська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-yamna": {
+   "title": "Ямна культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Ямна_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-catacomb": {
+   "title": "Катакомбна культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Катакомбна_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-multiroller": {
+   "title": "Культура багатоваликової кераміки — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Культура_багатоваликової_кераміки",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-srubna": {
+   "title": "Зрубна культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Зрубна_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-sabatynivka": {
+   "title": "Сабатинівська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Сабатинівська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-belogrudivka": {
+   "title": "Білогрудівська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Білогрудівська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-bronze": {
+   "title": "Бронзова доба — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Бронзова_доба",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-cimmerians": {
+   "title": "Кіммерійці — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Кіммерійці",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-iron-age": {
+   "title": "Залізна доба — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Залізна_доба",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-scythians": {
+   "title": "Скіфи — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Скіфи",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-olbia": {
+   "title": "Ольвія — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Ольвія",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-sarmatians": {
+   "title": "Сармати — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Сармати",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-zarubyntsi": {
+   "title": "Зарубинецька культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Зарубинецька_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-chernyakhiv": {
+   "title": "Черняхівська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Черняхівська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-slavs": {
+   "title": "Слов'яни — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Слов'яни",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-saltiv": {
+   "title": "Салтівська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Салтівська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-kyivan-rus": {
+   "title": "Київська Русь — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Київська_Русь",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-polovtsy": {
+   "title": "Половці — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Половці",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-pechenegs": {
+   "title": "Печеніги — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Печеніги",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-medieval": {
+   "title": "Середньовіччя — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Середньовіччя",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-cossacks": {
+   "title": "Козаки — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Козаки",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-sich": {
+   "title": "Запорозька Січ — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Запорозька_Січ",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-novyi-chas": {
+   "title": "Новий час — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Новий_час",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-kurgan": {
+   "title": "Курган — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Курган",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-hillfort": {
+   "title": "Городище — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Городище",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-campsite": {
+   "title": "Стоянка — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Стоянка",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-cemetery": {
+   "title": "Могильник — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Могильник",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-talianky": {
+   "title": "Тальянки — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Тальянки",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-mezyn": {
+   "title": "Мезин — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Мезин",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-motronyn": {
+   "title": "Мотронинське городище — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Мотронинське_городище",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-khortytsia": {
+   "title": "Хортиця — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Хортиця",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-chersonesos": {
+   "title": "Херсонес Таврійський — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Херсонес_Таврійський",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-kyiv": {
+   "title": "Київ — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Київ",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-ia": {
+   "title": "Інститут археології НАН України — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Інститут_археології_НАН_України",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-romny": {
+   "title": "Роменська культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Роменська_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-dnipro-donets": {
+   "title": "Дніпро-донецька культура — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Дніпро-донецька_культура",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-kiik-koba": {
+   "title": "Кіїк-Коба — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Кіїк-Коба",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-shaitan-koba": {
+   "title": "Шайтан-Коба — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Шайтан-Коба",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-meganom": {
+   "title": "Меганом — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Меганом",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-zaliznyak": {
+   "title": "Леонід Залізняк — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Леонід_Залізняк",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-tolochko": {
+   "title": "Петро Толочко — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Петро_Толочко",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-terenozhkin": {
+   "title": "Олексій Тереножкін — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Олексій_Тереножкін",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-videiko": {
+   "title": "Відейко Михайло Юрійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Відейко_Михайло_Юрійович",
+   "license": "CC BY-SA 4.0"
+  },
+  "wp-kolosov": {
+   "title": "Колосов Юрій Георгійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Колосов_Юрій_Георгійович",
+   "license": "CC BY-SA 4.0"
+  },
+  "ia-movchan": {
+   "title": "Світла пам'ять Івану Івановичу Мовчану — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/novini/news2/1340-svitla-pam-yat-ivanu-ivanovichu-movchanu-20-12-1939-16-01-2024",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "ia-hotun": {
+   "title": "Ігор Анатолійович Готун — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/index.php/struktura/naukovi-viddili/viddil-davnoruskoji-ta-serednovichnoji-arkheologiji?id=120",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "ia-bessonova": {
+   "title": "Світлої пам'яті Світлани Бессонової — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/novini/news2/1452-svitloji-pam-yati-svitlani-bessonovoji",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "ia-boltryk": {
+   "title": "Болтрик Ю.В. — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/struktura-ia/naukovi-viddili/viddil-polovij-komitet/spivrobitniki/boltrik-yu-v",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "ia-otroshchenko": {
+   "title": "Віталій Васильович Отрощенко — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-eneolitu-bronzovoji-dobi/spivrobitniki/otroshchenko-v-v",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "trypillia-kruts": {
+   "title": "In memory of Volodymyr Kruts — Trypillia journal",
+   "url": "https://trypillia.com/journal/history-in-memory-of-volodymyr-kruts/",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g0-wp-kruts": {
+   "title": "Круц Володимир Опанасович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D1%86_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9E%D0%BF%D0%B0%D0%BD%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-wp-sahaidak": {
+   "title": "Сагайдак Михайло Андрійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B3%D0%B0%D0%B9%D0%B4%D0%B0%D0%BA_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-ia-polin": {
+   "title": "С. В. Полін — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-rannogo-zaliznogo-viku/spivrobitniki/polin-s-v",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g0-ia-khamaiko": {
+   "title": "Н. В. Хамайко — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologichnij-muzej/naukovi-fondi/spivrobitniki/khamajko-n-v",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g0-wp-zotsenko": {
+   "title": "Зоценко Володимир Миколайович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%BE_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-wp-skoryy": {
+   "title": "Скорий Сергій Анатолійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-ia-skoryy": {
+   "title": "С. А. Скорий — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-rannogo-zaliznogo-viku/spivrobitniki/skorij-s-a",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g0-wp-mozolevskyy": {
+   "title": "Мозолевський Борис Миколайович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-wp-terenozhkin": {
+   "title": "Тереножкін Олексій Іванович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D0%B6%D0%BA%D1%96%D0%BD_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D0%B9_%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-wp-slavin": {
+   "title": "Славін Лазар Мойсейович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B0%D0%B2%D1%96%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9C%D0%BE%D0%B9%D1%81%D0%B5%D0%B9%D0%BE%D0%B2%D0%B8%D1%87",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g0-ia-daragan": {
+   "title": "М. М. Дараган — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-rannogo-zaliznogo-viku/spivrobitniki/daragan-m-m",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g1-wp-kolosov": {
+   "title": "Колосов Юрій Георгійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Колосов_Юрій_Георгійович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g1-wp-smilenko": {
+   "title": "Сміленко Алла Трохимівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Сміленко_Алла_Трохимівна",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g1-ia-kozlovskyi": {
+   "title": "Козловський А.О. — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kieva/spivrobitniki/kozlovskij-a-o",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g1-ia-yakovleva": {
+   "title": "Людмила Анатоліївна Яковлева — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kam-yanogo-viku/spivrobitniki/yakovleva-l-a",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g1-knu-yakovleva": {
+   "title": "Яковлева Людмила Анатоліївна — Кафедра археології та музеєзнавства КНУ",
+   "url": "https://archaeology.knu.ua/?page_id=1027",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g1-chnpu-neprina": {
+   "title": "Слово пам'яті про археолога та людину Валентину Іванівну Нєпріну",
+   "url": "https://library.chnpu.edu.ua/slovo-pam-yati-pro-arheologa-ta-lyudinu-valentinu-ivanivnu-nyeprinu/",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g1-wp-chernenko": {
+   "title": "Черненко Євген Васильович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Черненко_Євген_Васильович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g1-wp-motsya": {
+   "title": "Моця Олександр Петрович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Моця_Олександр_Петрович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g1-wp-tolochko": {
+   "title": "Толочко Петро Петрович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Толочко_Петро_Петрович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g1-ia-krotova": {
+   "title": "Олександра Олександрівна Кротова — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kam-yanogo-viku/spivrobitniki/krotova-o-o",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g1-wp-kukharchuk": {
+   "title": "Кухарчук Юрій Васильович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Кухарчук_Юрій_Васильович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g3-wp-telehin": {
+   "title": "Телегін Дмитро Якович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Телегін_Дмитро_Якович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g3-wp-ivakin": {
+   "title": "Івакін Гліб Юрійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Івакін_Гліб_Юрійович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g3-wp-kovpanenko": {
+   "title": "Ковпаненко Галина Тихонівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Ковпаненко_Галина_Тихонівна",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g3-irbis-blazhevych": {
+   "title": "Блажевич Наталія Василівна — Бібліотека НБУВ, Персоналії",
+   "url": "https://irbis-nbuv.gov.ua/ulib/item/ref0000017253",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g3-irbis-burdo": {
+   "title": "Бурдо Наталія Борисівна — Науковці України (НБУВ)",
+   "url": "https://irbis-nbuv.gov.ua/ASUA/1463734",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g3-ia-stepanchuk": {
+   "title": "Вадим Миколайович Степанчук — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kam-yanogo-viku/spivrobitniki/stepanchuk-v-m",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g3-wp-hanina": {
+   "title": "Ганіна Оксана Давидівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Ганіна_Оксана_Давидівна",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g4-ws-naia": {
+   "title": "Архів:НАІА — Вікіджерела (перелік фондів Наукового архіву ІА НАН України)",
+   "url": "https://uk.wikisource.org/wiki/Архів:НАІА",
+   "license": "CC BY-SA 4.0 (Вікіджерела), текст перефразовано"
+  },
+  "g4-kherson-lib": {
+   "title": "Історія області. Археологія. Етнографія. Херсонська обласна бібліотека",
+   "url": "https://lib.kherson.ua/istoriya-oblasti-arheologiya-etnografiya_lit4_20.htm",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g4-wp-videyko": {
+   "title": "Відейко Михайло Юрійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Відейко_Михайло_Юрійович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g4-wp-movsha": {
+   "title": "Мовша Тамара Григорівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Мовша_Тамара_Григорівна",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g4-wp-zaliznyak": {
+   "title": "Залізняк Леонід Львович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Залізняк_Леонід_Львович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g4-academia-bilsk": {
+   "title": "Скорий С.А., Білозор В.П., Супруненко О.Б., Кулатова І.М. Селища скіфського часу в системі Великого укріплення Більського городища",
+   "url": "https://www.academia.edu/102291080/",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g4-iananu-mahomedov": {
+   "title": "Магомедов Б.В. — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-rannikh-slov-yan/spivrobitniki/magomedov-b-v",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g4-wp-mahomedov": {
+   "title": "Магомедов Борис Вікторович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Магомедов_Борис_Вікторович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g4-kubg-protomista": {
+   "title": "Трипільські протоміста — репозиторій КУБГ",
+   "url": "https://elibrary.kubg.edu.ua/id/eprint/31159/",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g4-wp-kryzhytskyy": {
+   "title": "Крижицький Сергій Дмитрович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Крижицький_Сергій_Дмитрович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g4-knu-terpylovskyy": {
+   "title": "Терпиловський Ростислав Всеволодович — Кафедра археології та музеєзнавства КНУ",
+   "url": "https://archaeology.knu.ua/?page_id=522",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g4-wp-terpylovskyy": {
+   "title": "Терпиловський Ростислав Всеволодович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Терпиловський_Ростислав_Всеволодович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g2-irbis-petrashenko": {
+   "title": "Петрашенко Валентина Олексіївна (1950–2006) — Науковці України, НБУВ",
+   "url": "https://irbis-nbuv.gov.ua/ulib/item/REF0007627",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-ia-kanev1999": {
+   "title": "Петрашенко В. О., Козюба В. К. Узбережжя Канівського водосховища (каталог археологічних пам'яток), 1999",
+   "url": "https://archive.org/details/kanev1999",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-ia-fomenko": {
+   "title": "Віктор Миколайович Фоменко — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-eneolitu-bronzovoji-dobi/spivrobitniki/fomenko-v-m",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-esu-makhortykh": {
+   "title": "Махортих Сергій Володимирович — Енциклопедія сучасної України",
+   "url": "https://esu.com.ua/article-67147",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-ia-makhortykh": {
+   "title": "Махортих С.В. — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-rannogo-zaliznogo-viku/spivrobitniki/makhortikh-s-v",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-ia-artemenko": {
+   "title": "Іван Іванович Артеменко (1924–1989) — директори Інституту археології НАН України",
+   "url": "https://www.iananu.org.ua/pro-institut-ia/istoriya/personaliji/direktori/artemenko-i-i",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-irbis-artemenko": {
+   "title": "Артеменко Іван Іванович — Науковці України, НБУВ",
+   "url": "https://irbis-nbuv.gov.ua/ulib/item/REF0007283",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-ia-tovkaylo": {
+   "title": "Товкайло М.Т. — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kam-yanogo-viku/spivrobitniki/tovkajlo-m-t",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-niez-tovkaylo": {
+   "title": "75 років Миколі Тихоновичу Товкайлу — НІЕЗ «Переяслав»",
+   "url": "https://niez.com.ua/museums/entsyklopediia-zapovidnyka/istorychnyi-kalendar/%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D1%81%D1%82%D0%BE%D1%81%D1%82%D1%96/3085-24-hrudnya-vypovnyuyetsya-75-rokiv-mykoli-tykhonovychu-tovkaylu-arkheolohu-muzeyeznavtsyu-tsekh-maystru-kyyivskoho-kobzarskoho-tsekhu-doslidnyku-arkheolohiyi-pereyaslava.html",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-wp-bratchenko": {
+   "title": "Братченко Станіслав Никифорович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Братченко_Станіслав_Никифорович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g2-wp-shaposhnikova": {
+   "title": "Шапошникова Олімпіада Гаврилівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Шапошникова_Олімпіада_Гаврилівна",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g2-ia-rassamakin": {
+   "title": "Юрій Якович Рассамакін — Інститут археології НАН України",
+   "url": "https://www.iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-eneolitu-bronzovoji-dobi/spivrobitniki/rassamakin-yu-ya",
+   "license": "посилання на сторінку, текст перефразовано"
+  },
+  "g2-wp-bidzilya": {
+   "title": "Бідзіля Василь Іванович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Бідзіля_Василь_Іванович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "g2-wp-kuchera": {
+   "title": "Кучера Михайло Петрович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Кучера_Михайло_Петрович",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "wp-ru-kruts": {
+   "title": "Круц, Владимир Афанасьевич — Википедия",
+   "url": "https://ru.wikipedia.org/wiki/Круц,_Владимир_Афанасьевич",
+   "license": "CC BY-SA 4.0 (Вікіпедія), текст перефразовано"
+  },
+  "esu-kolosov": {
+   "title": "Колосов Юрій Георгійович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-3086",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-telehin-d-ya": {
+   "title": "Телегін Дмитро Якович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-886172",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-mozolevskyy-b-m": {
+   "title": "Мозолевський Борис Миколайович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-68333",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-smilenko-a-t": {
+   "title": "Сміленко Алла Трохимівна — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-886070",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-chernenko-ye-v": {
+   "title": "Черненко Євген Васильович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-886842",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-motsya-o-p": {
+   "title": "Моця Олександр Петрович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-68811",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-ivakin-h-yu": {
+   "title": "Івакін Гліб Юрійович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-14120",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-kovpanenko-h-t": {
+   "title": "Ковпаненко Галина Тихонівна — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-7331",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-movsha-t-h": {
+   "title": "Мовша Тамара Григорівна — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-68205",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-kryzhytskyy-s-d": {
+   "title": "Крижицький Сергій Дмитрович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-952",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "esu-bidzilya-v-i": {
+   "title": "Бідзіля Василь Іванович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-39856",
+   "license": "посилання на статтю, текст перефразовано"
+  },
+  "adiu-2021-38": {
+   "title": "До 70-річчя Валентини Олексіївни Петрашенко. Археологія і давня історія України, 2021, вип. 1 (38)",
+   "url": "http://www.vgosau.kiev.ua/load_period-sb/adiu_38%281%29.pdf",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "knu-yevdokymov": {
+   "title": "Євдокимов Геннадій Леонідович — Археологія КНУ імені Тараса Шевченка",
+   "url": "https://archaeology.knu.ua/?page_id=1143",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "nbuv-sahaydak": {
+   "title": "Сагайдак Михайло Андрійович — Національна бібліотека України ім. В. І. Вернадського",
+   "url": "https://irbis-nbuv.gov.ua/ulib/item/ref0000018205",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "kubg-videyko": {
+   "title": "Відейко Михайло Юрійович — Е-Портфоліо Університету Грінченка",
+   "url": "https://eportfolio.kubg.edu.ua/teacher/1249",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-videiko": {
+   "title": "Відейко Михайло Юрійович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Відейко_Михайло_Юрійович",
+   "license": "CC BY-SA 4.0 (текст перефразовано)"
+  },
+  "knu-blazhevych": {
+   "title": "Блажевич Наталія Василівна — Археологія КНУ імені Тараса Шевченка",
+   "url": "https://archaeology.knu.ua/?page_id=1093",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-zotsenko": {
+   "title": "Зоценко Володимир Миколайович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Зоценко_Володимир_Миколайович",
+   "license": "CC BY-SA 4.0 (текст перефразовано)"
+  },
+  "gscholar-neprina": {
+   "title": "Валентина Іванівна Нєпріна (Митрофанова) — Google Scholar",
+   "url": "https://scholar.google.com/citations?user=KmBEBcsAAAAJ&hl=uk",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-tovkaylo": {
+   "title": "Товкайло Микола Тихонович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Товкайло_Микола_Тихонович",
+   "license": "CC BY-SA 4.0 (текст перефразовано)"
+  },
+  "nbuv-burdo": {
+   "title": "Бурдо Наталія Борисівна — Національна бібліотека України ім. В. І. Вернадського",
+   "url": "https://irbis-nbuv.gov.ua/ulib/item/REF0003686",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "esu-kozub": {
+   "title": "Козуб Юлія Іванівна — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-7986",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-shaposhnykova": {
+   "title": "Шапошникова Олімпіада Гаврилівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Шапошникова_Олімпіада_Гаврилівна",
+   "license": "CC BY-SA 4.0 (текст перефразовано)"
+  },
+  "knu-shmahliy": {
+   "title": "Шмаглій Микола Михайлович — Археологія КНУ імені Тараса Шевченка",
+   "url": "https://archaeology.knu.ua/?page_id=1332",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-havrysh": {
+   "title": "Гавриш Петро Якимович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Гавриш_Петро_Якимович",
+   "license": "CC BY-SA 4.0 (текст перефразовано)"
+  },
+  "esu-honcharov": {
+   "title": "Гончаров Володимир Кирилович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-30898",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "esu-hoshkevych": {
+   "title": "Гошкевич Віктор Іванович — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-31654",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "iananu-kryzhanovskyy": {
+   "title": "Крижановський В.О. — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kieva/spivrobitniki/krizhanovskij-v-o",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-ru-kubyshev": {
+   "title": "Кубышев, Анатолий Иванович — Википедия (рос.)",
+   "url": "https://ru.wikipedia.org/wiki/Кубышев,_Анатолий_Иванович",
+   "license": "CC BY-SA 4.0, текст перефразовано"
+  },
+  "kman-kukharska": {
+   "title": "Вітаємо ювіляра: 70 років головній «археологині» Київської МАН — Олені Миколаївні Кухарській — Київська МАН",
+   "url": "https://kman.kyiv.ua/ua/novyny/Vitaemo-uvilyara-70-rokiv-holovnii-arkheolohini-Kiivskoi-MAN-Oleni-Mikolaivni-Kukharskii",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "knu-kukharchuk": {
+   "title": "Кухарчук Юрій Васильович — Кафедра археології та музеєзнавства КНУ",
+   "url": "https://archaeology.knu.ua/?page_id=1041",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "esu-rusyayeva": {
+   "title": "Русяєва Анна Станіславівна — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-886918",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-tytova": {
+   "title": "Титова Олена Миколаївна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Титова_Олена_Миколаївна",
+   "license": "CC BY-SA 4.0, текст перефразовано"
+  },
+  "gscholar-tytova": {
+   "title": "Титова Олена Миколаївна — Google Академія",
+   "url": "https://scholar.google.com/citations?user=wqxZTJIAAAAJ&hl=uk",
+   "license": "посилання на джерело"
+  },
+  "wp-ru-baran": {
+   "title": "Баран, Владимир Данилович — Википедия (рос.)",
+   "url": "https://ru.wikipedia.org/wiki/Баран,_Владимир_Данилович",
+   "license": "CC BY-SA 4.0, текст перефразовано"
+  },
+  "wp-uk-buyskykh": {
+   "title": "Буйських Сергій Борисович — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Буйських_Сергій_Борисович",
+   "license": "CC BY-SA 4.0, текст перефразовано"
+  },
+  "esu-vetshteyn": {
+   "title": "Ветштейн Рива Йонівна — Енциклопедія Сучасної України",
+   "url": "https://esu.com.ua/article-33821",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "wp-uk-hanina": {
+   "title": "Ганіна Оксана Давидівна — Вікіпедія",
+   "url": "https://uk.wikipedia.org/wiki/Ганіна_Оксана_Давидівна",
+   "license": "CC BY-SA 4.0, текст перефразовано"
+  },
+  "iananu-haskevych": {
+   "title": "Гаскевич Д.Л. — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kam-yanogo-viku/spivrobitniki/gaskevich-d-l",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "iananu-hershkovych": {
+   "title": "Гершкович Я.П. — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-eneolitu-bronzovoji-dobi/spivrobitniki/gershkovich-ya-p",
+   "license": "посилання на джерело, текст перефразовано"
+  },
+  "iananu-ivakin-vh": {
+   "title": "Івакін В.Г. — Інститут археології НАН України",
+   "url": "https://iananu.org.ua/struktura-ia/naukovi-viddili/viddil-arkheologiji-kieva/spivrobitniki/ivakin-v-g",
+   "license": "посилання на джерело, текст перефразовано"
+  }
+ }
+}

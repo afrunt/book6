@@ -1,0 +1,13 @@
+{
+  "_comment": "Region context cards for the regions with most records; publicPrecision caps coordinates shown publicly (default: district). Київ is allowed settlement precision as a city; source: public city boundary.",
+  "defaultPublicPrecision": "district",
+  "items": {
+    "kyyiv": {"publicPrecision": "settlement", "precisionSource": "wp-kyiv", "summary": "Столиця України й центр давньоруської держави. Записи цього регіону — переважно матеріали досліджень Старого Києва та околиць.", "facts": [{"text": "Київ — головний центр Київської Русі.", "sources": ["wp-kyivan-rus", "wp-kyiv"]}], "sources": ["wp-kyiv"], "confidence": "high"},
+    "cherkaska": {"summary": "Регіон з найбільшою кількістю записів у реєстрі: Трипілля, скіфські городища лісостепу та пам'ятки Середнього Подніпров'я.", "facts": [{"text": "Тальянки — поселення-велетень трипільської культури.", "sources": ["wp-talianky"]}, {"text": "Мотронинське городище — відомий скіфський пам'ятник.", "sources": ["wp-motronyn"]}], "sources": ["wp-talianky", "wp-motronyn"], "confidence": "high"},
+    "kyyivska": {"summary": "Навколо Києва — пам'ятки від кам'яної доби до давньоруського часу, зокрема Трипілля, назване за селом Трипілля.", "facts": [{"text": "Трипільську культуру назвали за селом Трипілля на Київщині.", "sources": ["wp-trypillia"]}], "sources": ["wp-trypillia"], "confidence": "high"},
+    "zaporizka": {"summary": "Степове Придніпров'я та Приазов'я з курганами, а також острів Хортиця — осередок козацької історії та давніх пам'яток.", "facts": [{"text": "Хортиця — найбільший острів на Дніпрі, пов'язаний із Запорозькою Січчю.", "sources": ["wp-khortytsia", "wp-sich"]}], "sources": ["wp-khortytsia"], "confidence": "medium"},
+    "mykolayivska": {"summary": "Північне Причорномор'я: античні колонії й скіфські кургани.", "facts": [{"text": "Ольвія — давньогрецька колонія поблизу Парутиного.", "sources": ["wp-olbia"]}], "sources": ["wp-olbia"], "confidence": "medium"},
+    "ark": {"summary": "Кримський півострів: від мустьєрських печер і стоянок неандертальців до античного Херсонеса.", "facts": [{"text": "Кіїк-Коба й Шайтан-Коба — відомі пам'ятки палеоліту.", "sources": ["wp-kiik-koba", "wp-shaitan-koba"]}, {"text": "Херсонес Таврійський — давньогрецьке місто.", "sources": ["wp-chersonesos"]}], "sources": ["wp-kiik-koba", "wp-chersonesos"], "confidence": "high"},
+    "poltavska": {"summary": "Лівобережний лісостеп з поселеннями й курганами.", "facts": [{"text": "Роменська культура — давньоруська доба на Лівобережжі.", "sources": ["wp-romny"]}], "sources": ["wp-romny"], "confidence": "medium"}
+  }
+}
